@@ -1,0 +1,58 @@
+[
+  {
+      "category_name": "Gold Sponsors",
+      "sponsors": [
+          {
+              "name":"Google For Developers",
+              "link": "https://developers.google.com",
+              "logo": "googlefordevelopers.png"   
+          },
+          {
+              "name":"Google For Developers",
+              "link": "https://developers.google.com",
+              "logo": "googlefordevelopers.png"   
+          },
+          {
+              "name":"Google For Developers",
+              "link": "https://developers.google.com",
+              "logo": "googlefordevelopers.png"   
+          },
+          {
+              "name":"Google For Developers",
+              "link": "https://developers.google.com",
+              "logo": "googlefordevelopers.png"   
+          }
+      ]
+  },
+  {
+      "category_name": "Silver Sponsors",
+      "sponsors": [
+          {
+              "name":"Google For Developers",
+              "link": "https://developers.google.com",
+              "logo": "googlefordevelopers.png"   
+          },
+          {
+              "name":"Google For Developers",
+              "link": "https://developers.google.com",
+              "logo": "googlefordevelopers.png"   
+          },
+          {
+              "name":"Google For Developers",
+              "link": "https://developers.google.com",
+              "logo": "googlefordevelopers.png"   
+          }
+      ]
+  },
+  {
+      "category_name": "Our Partners",
+      "sponsors": [
+          {
+              "name":"TechFerment",
+              "link": "https://techferment.com",
+              "logo": "techferment.png"   
+          }
+      ]
+  }
+
+]

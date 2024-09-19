@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "google-sans";
+  src: url("./fonts/google-font.woff2") format("woff2");
+  font-display: swap;
+}
+
+.google-font {
+  font-family: "google-sans", Helvetica, Arial, Sans-Serif;
+}
+
+.footer-icons {
+  /* float: right; */
+  display: flex;
+  justify-content: center;
+  
+}
+
+@media (max-width: 960px) {
+  .footer-icons {
+    float: none;
+  }
+}
