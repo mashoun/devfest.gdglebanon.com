@@ -4,10 +4,7 @@
       <v-col md="12" sm="12">
         <h1>What to Expect</h1>
         <p>
-          An annual event hosted by the Google Developers Group across the world
-          to bring the technology closer to the developers. It is an all day
-          developer conference where we aim to focus on multiple technologies
-          through lightning talks, sessions, workshops, etc.
+          DevFest Beirut is where ideas spark, connections grow, and technology comes alive. Here’s what you can expect this year:
         </p>
       </v-col>
       <v-col

@@ -7,17 +7,28 @@
   {
     "name": "Agenda",
     "path": "/agenda",
-    "visible": true
+    "visible": false
   },
   {
     "name": "Speakers",
     "path": "/speakers",
+    "visible": false 
+  },
+  {
+    "name": "Apply as Sponsor",
+    "path": "/partnersApplication",
+    "visible": true,
+    "external": true
+  },
+  {
+    "name": "Apply as Speaker",
+    "path": "/speakersApplication",
     "visible": true
   },
   {
     "name": "Badge",
     "path": "/badge",
-    "visible": false
+    "visible": true
   },
   {
     "name": "Team",
@@ -27,6 +38,6 @@
   {
     "name": "FAQ",
     "path": "/faq",
-    "visible": false
+    "visible": true
   }
 ]
