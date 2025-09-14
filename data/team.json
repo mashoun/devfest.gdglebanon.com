@@ -12,7 +12,7 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/abed-attal/"
     },
-    "type": "Core"
+    "type": "Leader"
   },
    {
     "id": "6002",
@@ -39,12 +39,225 @@
     "community_title": "GDG Coast Lebanon Organizer",
     "image": "Mahmoud.jfif",
     "bio": "I have experience in building responsive and dynamic web apps using Vue.js ● I provide Full Stack Solutions that extends the Automation of Google Cloud using Google Apps Script & Firebase ● Along with a proven ability to integrate SEO best practices and AI models like ChatGPT and Gemini ● I am also a GDG organiser ( Google Developer Groups ) a community from Google Developers.",
-      "socials":{"linkedin": "https://www.linkedin.com/in/s-shivam/",
-      "twitter": "https://twitter.com/Shivamc504?t=Vc1j2jeHDLkS1-cSM1LSkg&s=09",
-      "github": "",
-      "web": "https://shivam.live/"
+      "socials":{"linkedin": "https://www.linkedin.com/in/s-shivam/"
     },
     "type": "Core"
+  },
+  {
+    "id": "6021",
+    "name": "Dr. Nadine Abbas",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "community_title": "Organizer / Mentor",
+    "image": "NadineAbbas.png",
+    "bio": "Dr. Nadine Abbas is an Assistant Professor in the Computer Science and Mathematics department at the Lebanese American University (LAU). She earned a BE degree in Computer and Communication Engineering from Notre Dame University (NDU) in 2008. She received her M.E. and Ph.D. degrees in Electrical and Computer Engineering from the American University of Beirut (AUB) in 2011 and 2017, respectively. Dr. Abbas has received several awards including a visiting researcher position in 2012 at Intel Corporation USA, in addition to a scholarship from the Lebanese National Council for Scientific Research 2015-2017, and NDU’s Engineering Research Innovation Award in 2008. She serves as the Membership Development officer of the IEEE Lebanon Section, the Vice Chair of the IEEE WIE Lebanon, the Membership Development officer of the IEEE Communication Society Lebanon, and the Technical Lead at Beirut AI. Her research interests include mobile edge computing and wireless communications. The aim is to provide novel solutions that address emerging challenges in the design of next-generation heterogeneous wireless networks, including ultra-reliable and low-latency communication systems in the context of 5G/6G mobile communications, tactile internet, internet of things, and cognitive vehicular-to-everything networks.",
+    "social": {
+      "linkedin": "https://lb.linkedin.com/in/nadine-abbas",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6023",
+    "name": "Dr. Ammar Mohanna",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "community_title": "Organizer / Mentor",
+    "image": "ammar.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6022",
+    "name": "Christoph El Khoury",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "community_title": "Organizer / Community Builder",
+    "image": "christoph-el-khoury.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6009",
+    "name": "Mohamad Ali Tabbara",
+    "company": {
+      "name": "GDG Coast Lebanon",
+      "designation": "Partnership Manager"
+    },
+    "community_title": "Partnership Manager Lebanese American University",
+    "image": "mohamad-ali-tabbara.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6017",
+    "name": "Sarah Rashidi",
+    "company": {
+      "name": "GDG Coast Lebanon",
+      "designation": "Organizer"
+    },
+    "community_title": "Organizer",
+    "image": "sarah-rashidi.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6019",
+    "name": "Hanin Albayoud",
+    "company": {
+      "name": "GDG Coast Lebanon",
+      "designation": "CCI ‐ ICT Innovations"
+    },
+    "community_title": "CCI ‐ ICT Innovations",
+    "image": "hanin-albayoud.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6018",
+    "name": "Sandra Farhat",
+    "company": {
+      "name": "GDG Coast Lebanon",
+      "designation": "Organizer"
+    },
+    "community_title": "Organizer",
+    "image": "sandra-farhat.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+  "id": "6024",
+  "name": "Mohammad Darsa",
+  "company": {
+    "name": "",
+    "designation": ""
+  },
+  "community_title": "Organizer / Community Member",
+  "image": "mohammad-darsa.png",
+  "bio": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "web": ""
+  },
+  "type": "Core"
+},
+  {
+    "id": "6015",
+    "name": "Amir Bou Ghanem",
+    "company": {
+      "name": "GDG Coast Lebanon",
+      "designation": "GDG on Campus"
+    },
+    "community_title": "GDG on Campus • Lebanese University",
+    "image": "amir-bou-ghanem.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6016",
+    "name": "Georgio Nassar",
+    "company": {
+      "name": "GDG Coast Lebanon",
+      "designation": "Organizer"
+    },
+    "community_title": "Organizer",
+    "image": "georgio-nassar.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+   {
+    "id": "6014",
+    "name": "Mohamad Nassif",
+    "company": {
+      "name": "GDG Coast Lebanon",
+      "designation": "Organizer"
+    },
+    "community_title": "Organizer American University of Beirut",
+    "image": "mohamad-nassif.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6020",
+    "name": "Abdullah AlaaDine",
+    "company": {
+      "name": "GDG Coast Lebanon",
+      "designation": "Backend Developer"
+    },
+    "community_title": "Go Backend Developer Monty Mobile",
+    "image": "abdullah-alaadine.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
   },
   {
     "id": "6002",
