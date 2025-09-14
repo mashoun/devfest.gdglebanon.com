@@ -14,7 +14,7 @@
           :alt="props.data.name"
           :src="
             props.data.image.length
-              ? '/img/team/' + props.data.image
+              ? '/img/partners/' + props.data.image
               : '/img/common/avatar.png'
           "
         ></v-img>

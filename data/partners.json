@@ -10,8 +10,8 @@
     "image": "42Beirut.png",
     "bio": "42 Beirut is a tuition-free coding school with a peer-to-peer learning methodology.",
     "social": {
-      "linkedin": "https://www.linkedin.com/school/42beirut",
-      "web": "https://www.42beirut.com.lb/"
+      "linkedin": "https://www.linkedin.com/company/42-beirut/",
+      "web": "https://42beirut.com/"
     },
     "type": "Core"
   },
@@ -27,7 +27,7 @@
     "bio": "AUB Innovation Park fosters entrepreneurship and innovation, empowering startups and innovators to create impactful solutions.",
     "social": {
       "linkedin": "https://www.linkedin.com/company/talal-and-madiha-zein-aub-innovation-park",
-      "web": ""
+      "web": "https://sites.aub.edu.lb/ipark/"
     },
     "type": "Core"
   },
@@ -56,10 +56,10 @@
     },
     "community_title": "",
     "image": "Barista.png",
-    "bio": "Barista is a coffee and beverage company supporting community-driven events and experiences.",
+    "bio": "Barista has become renowned for its refined blends of coffee by carefully selecting pure Arabica beans and monitoring the process of roasting them to perfection.",
     "social": {
-      "linkedin": "",
-      "web": ""
+      "linkedin": "https://www.instagram.com/baristaespresso",
+      "web": "https://baristacoffee.com/"
     },
     "type": "Core"
   },
@@ -87,7 +87,7 @@
       "designation": ""
     },
     "community_title": "",
-    "image": "Blackbox.png",
+    "image": "Blackbox.ai.png",
     "bio": "Blackbox.ai provides AI-powered solutions to support businesses in scaling and decision-making.",
     "social": {
       "linkedin": "https://www.linkedin.com/company/blackboxtech",
@@ -106,8 +106,8 @@
     "image": "Concat.png",
     "bio": "Concat is a technology partner connecting talent and businesses to create impactful software solutions.",
     "social": {
-      "linkedin": "",
-      "web": ""
+      "linkedin": "linkedin.com/company/concattech",
+      "web": "https://concat.tech/"
     },
     "type": "Core"
   },
@@ -120,10 +120,10 @@
     },
     "community_title": "",
     "image": "Dataholic.png",
-    "bio": "Dataholic is a community-driven initiative focused on data science, AI, and analytics.",
+    "bio": "Dataholic is an IT company that helps in transforming organizations into an intelligent enterprise guided by analytics and insights. ",
     "social": {
-      "linkedin": "",
-      "web": ""
+      "linkedin": "https://www.linkedin.com/company/dataholic-cloud-services/",
+      "web": "https://dataholic.info/"
     },
     "type": "Core"
   },
@@ -138,7 +138,7 @@
     "image": "IncuGame.png",
     "bio": "IncuGame fosters the gaming industry through incubation, mentorship, and community initiatives.",
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/incugamecon/",
       "web": "https://incugamecon.media/"
     },
     "type": "Core"
@@ -167,7 +167,7 @@
       "designation": ""
     },
     "community_title": "",
-    "image": "JurdiConsult.png",
+    "image": "Jurdi&Co.png",
     "bio": "Jurdi Consult specializes in media, technology, and business consultancy.",
     "social": {
       "linkedin": "https://www.linkedin.com/company/jurdi-media-tech-consultants",
@@ -186,8 +186,8 @@
     "image": "Kinza.png",
     "bio": "Kinza delivers innovative solutions in technology and entrepreneurship.",
     "social": {
-      "linkedin": "",
-      "web": ""
+      "linkedin": "https://www.instagram.com/kinzabev.lb",
+      "web": "https://www.kinzalebanon.com/"
     },
     "type": "Core"
   },
@@ -199,11 +199,11 @@
       "designation": ""
     },
     "community_title": "",
-    "image": "LAUSoftwareInstitute.png",
+    "image": "LAUSI.png",
     "bio": "The LAU Software Institute promotes innovation and research in software engineering and technology.",
     "social": {
-      "linkedin": "",
-      "web": ""
+      "linkedin": "https://www.linkedin.com/in/software-institute-soas-lau",
+      "web": "https://www.instagram.com/software.institute.lau/"
     },
     "type": "Core"
   },
@@ -216,7 +216,7 @@
     },
     "community_title": "",
     "image": "LYXA.png",
-    "bio": "LYXA.ai is an artificial intelligence company delivering cutting-edge data-driven technologies.",
+    "bio": "Lyxa is an all-in-one marketplace app offering food, grocery, retail ordering, and courier services, all designed to simplify your everyday needs.",
     "social": {
       "linkedin": "https://www.linkedin.com/company/lyxa",
       "web": "https://lyxa.ai/"
@@ -232,26 +232,26 @@
     },
     "community_title": "",
     "image": "Semicolon.png",
-    "bio": "Semicolon Academy provides hands-on training and courses to empower learners in technology and programming.",
+    "bio": "Semicolon, established in 2016, is a trusted leader in cybersecurity, renowned for its expertise in offensive security and innovative solutions that protect businesses’ digital assets.",
     "social": {
-      "linkedin": "https://www.linkedin.com/company/semicolon-academy",
-      "web": "https://semicolon.academy/"
+      "linkedin": "linkedin.com/company/semicolonlb",
+      "web": "https://academy.semsec.org//"
     },
     "type": "Core"
   },
   {
     "id": "6017",
-    "name": "SUpportful",
+    "name": "Supportful",
     "company": {
       "name": "",
       "designation": ""
     },
     "community_title": "",
-    "image": "SUpportful.png",
-    "bio": "SUpportful is a social impact initiative fostering support networks and community well-being.",
+    "image": "Supportful.png",
+    "bio": "Supportful is a mission-driven company that provides businesses with top-tier, remote software engineers from Lebanon to help them grow their tech teams while combating brain drain and fostering local economic development.",
     "social": {
-      "linkedin": "",
-      "web": ""
+      "linkedin": "https://www.linkedin.com/company/supportful-world",
+      "web": "https://www.supportful.world/"
     },
     "type": "Core"
   },
@@ -264,10 +264,10 @@
     },
     "community_title": "",
     "image": "TheCollective.png",
-    "bio": "The Collective is a collaborative hub bringing together entrepreneurs, creatives, and changemakers.",
+    "bio": "The Collective is unifying leadership across Lebanon's industries to drive strategic growth & collective impact, starting with Technology",
     "social": {
-      "linkedin": "",
-      "web": ""
+      "linkedin": "https://www.linkedin.com/company/the-col",
+      "web": "https://www.thentt.me/collective"
     },
     "type": "Core"
   },
@@ -280,7 +280,7 @@
     },
     "community_title": "",
     "image": "UPaint.png",
-    "bio": "UPaint is a creative platform focused on art, design, and community expression.",
+    "bio": "uPaint is an all inclusive painting kit, backed up by a Machine Learning and Image Processing based software, that allows anyone, even with no previous painting skills, to paint ready-made or customized Artwork through numbers.",
     "social": {
       "linkedin": "https://www.linkedin.com/company/upaint",
       "web": "https://upaint.me/"
@@ -295,11 +295,11 @@
       "designation": ""
     },
     "community_title": "",
-    "image": "WiE.png",
+    "image": "WIELebanon.png",
     "bio": "Women in Engineering Lebanon is an IEEE affinity group that empowers women engineers and scientists.",
     "social": {
-      "linkedin": "",
-      "web": ""
+      "linkedin": "https://www.linkedin.com/in/ieee-wie-lebanon-879478208/",
+      "web": "https://www.instagram.com/wielebanon/?hl=en"
     },
     "type": "Core"
   }
