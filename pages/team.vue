@@ -5,11 +5,7 @@
         <v-col md="12">
           <h1>Team</h1>
           <p>
-            Our mission is to equip our community members with practical skills,
-            enabling them to communicate their insights and drive innovative
-            solutions effectively. Whatever your challenge, these leaders on the
-            front line of transformation, innovation, and exploration helped
-            solve it with you.
+            At GDG Coast Lebanon, our vibrant community is powered by passionate volunteers who love bringing tech enthusiasts together. From organizing events and workshops to mentoring and building partnerships, our team works behind the scenes to make every experience memorable.
           </p>
         </v-col>
       </v-row>
@@ -34,8 +30,8 @@ useSeoMeta({
   description: mainData.eventInfo.description.short,
   keywords: mainData.seo.keywords,
   ogLocale:'en_US',
-  author: "OSS Labs",
-  creator: "OSS Labs",
+  author: "GDG Coast Lebanon",
+  creator: "GDG Coast Lebanon",
   viewport: "width=device-width, initial-scale=1.0",
   ogTitle: "Team - " + mainData.eventInfo.name + " | " + mainData.communityName,
   ogDescription: mainData.eventInfo.description.short,

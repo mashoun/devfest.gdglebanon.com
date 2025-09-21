@@ -15,13 +15,18 @@
     "visible": false 
   },
   {
-    "name": "Apply as Sponsor",
+    "name": "Sponsors",
     "path": "/partnersApplication",
     "visible": true,
     "external": true
   },
+  { 
+    "name": "Trusted by", 
+    "path": "/partners",
+    "visible": true
+  },
   {
-    "name": "Apply as Speaker",
+    "name": "Speakers",
     "path": "/speakersApplication",
     "visible": true
   },

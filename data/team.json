@@ -47,7 +47,7 @@
     "id": "6021",
     "name": "Dr. Nadine Abbas",
     "company": {
-      "name": "",
+      "name": "Lebanese American University",
       "designation": ""
     },
     "community_title": "Organizer / Mentor",
@@ -65,14 +65,14 @@
     "id": "6023",
     "name": "Dr. Ammar Mohanna",
     "company": {
-      "name": "",
+      "name": "American University of Beirut",
       "designation": ""
     },
     "community_title": "Organizer / Mentor",
-    "image": "ammar.png",
-    "bio": "",
+    "image": "ammar.jfif",
+    "bio": "Dr. Ammar is a Lecturer and AI Consultant with extensive academic and industry experience across machine learning, MLOps, explainable AI, and edge AI. His work bridges research and real-world deployment — from training AI practitioners to advising startups and building robust ML pipelines. Through teaching, mentorship, and open-source contributions, he strives to make AI accessible, ethical, and impactful. He is particularly passionate about graph learning, prompt engineering, and bringing AI closer to real-time, resource-constrained environments.",
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/ammarmohanna/",
       "twitter": "",
       "github": "",
       "web": ""
@@ -83,14 +83,14 @@
     "id": "6022",
     "name": "Christoph El Khoury",
     "company": {
-      "name": "",
+      "name": "The Entity & The Collective",
       "designation": ""
     },
     "community_title": "Organizer / Community Builder",
-    "image": "christoph-el-khoury.png",
-    "bio": "",
+    "image": "chris.jfif",
+    "bio": "Christophe is a systems thinker and CTO who helps founders, startups, and SMEs transform vision into execution through cultural, operational, and leadership systems. With a background in software engineering and psychology, he bridges bold ideas with sustainable delivery across sectors like mental health, education, finance, and leadership development. He leads The Entity, an execution-focused consultancy, and The Collective, a national initiative fostering collaboration in Lebanon’s tech ecosystem. A frequent speaker and advisor, Chris is especially committed to supporting underrepresented and women-led teams, always centering his work on building what truly matters.",
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/christopheek/",
       "twitter": "",
       "github": "",
       "web": ""
@@ -105,16 +105,34 @@
       "designation": "Partnership Manager"
     },
     "community_title": "Partnership Manager Lebanese American University",
-    "image": "mohamad-ali-tabbara.png",
+    "image": "tabarra.jfif",
     "bio": "",
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/mohamad-ali-tabbara/",
       "twitter": "",
       "github": "",
       "web": ""
     },
     "type": "Core"
   },
+   {
+  "id": "6024",
+  "name": "Mohammad Darsa",
+  "company": {
+    "name": "",
+    "designation": ""
+  },
+  "community_title": "Organizer / Community Member",
+  "image": "darsa.jfif",
+  "bio": "Mohammad Darsa is a Software Engineer and Data Engineer at Proximie, and Co-Founder of MacroVision Tech Agency. He is passionate about data and building systems that deliver impactful solutions across fintech, telecom, banking, and healthcare. Mohammad specializes in designing and maintaining scalable backend systems, developing efficient data pipelines, and integrating complex services to streamline operations. With experience in secure data communication, workflow optimization, and delivering reliable business-critical solutions, he thrives on solving challenging problems and leveraging his engineering expertise to create robust, high-impact systems.",
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/mohammad-darsa/",
+    "twitter": "",
+    "github": "",
+    "web": ""
+  },
+  "type": "Core"
+},
   {
     "id": "6017",
     "name": "Sarah Rashidi",
@@ -123,10 +141,10 @@
       "designation": "Organizer"
     },
     "community_title": "Organizer",
-    "image": "sarah-rashidi.png",
-    "bio": "",
+    "image": "",
+    "bio": "Sarah Rashidi is an AI researcher and community builder passionate about ethical technology and its real-world impact. She is the Founder of CodeWithSerah, a global initiative with 900+ members empowering Gen Z & Gen Alpha in tech, and has led projects across NLP, Knowledge Graphs, and Quantum Machine Learning. An award-winning innovator and Top 1% LeetCode solver, Sarah is also active in communities like Young4STEM, All Girls Code, and GDG Lebanon, mentoring and inspiring the next generation of tech leaders.",
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/serahrashidi/",
       "twitter": "",
       "github": "",
       "web": ""
@@ -141,10 +159,10 @@
       "designation": "CCI ‐ ICT Innovations"
     },
     "community_title": "CCI ‐ ICT Innovations",
-    "image": "hanin-albayoud.png",
-    "bio": "",
+    "image": "hanine.jfif",
+    "bio": "Hanine is a passionate Data and AI Specialist at CCI, where she develops data-driven solutions to empower businesses. A recent graduate of LAU, she is also engaged in AI research, exploring innovative approaches to advance the field of technology.",
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/haneen-albayoud/",
       "twitter": "",
       "github": "",
       "web": ""
@@ -159,34 +177,16 @@
       "designation": "Organizer"
     },
     "community_title": "Organizer",
-    "image": "sandra-farhat.png",
-    "bio": "",
+    "image": "sandra.jfif",
+    "bio": "Sandra is a Computer Science student at Lebanese University with a passion for coding and problem-solving. She has experience in programming languages such as C, C++, and Python, as well as web development, database management, and algorithms. She has completed academic projects including an Arduino water tank level tracker and a mini murder mystery website game. Interested in front-end development, AI, cybersecurity, mobile apps, and robotics, Sandra is actively seeking internships and collaborative projects to apply her skills and contribute to innovative tech solutions.",
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/sandra-farhat/",
       "twitter": "",
       "github": "",
       "web": ""
     },
     "type": "Core"
   },
-  {
-  "id": "6024",
-  "name": "Mohammad Darsa",
-  "company": {
-    "name": "",
-    "designation": ""
-  },
-  "community_title": "Organizer / Community Member",
-  "image": "mohammad-darsa.png",
-  "bio": "",
-  "social": {
-    "linkedin": "",
-    "twitter": "",
-    "github": "",
-    "web": ""
-  },
-  "type": "Core"
-},
   {
     "id": "6015",
     "name": "Amir Bou Ghanem",
@@ -195,8 +195,8 @@
       "designation": "GDG on Campus"
     },
     "community_title": "GDG on Campus • Lebanese University",
-    "image": "amir-bou-ghanem.png",
-    "bio": "",
+    "image": "amir.jfif",
+    "bio": "Backend Engineer Intern at Oreyeon and Master’s student at the Lebanese University. I love building tech that makes a real impact and kickstarting meaningful initiatives. Previously led GDG on Campus at the Lebanese University.",
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -213,8 +213,8 @@
       "designation": "Organizer"
     },
     "community_title": "Organizer",
-    "image": "georgio-nassar.png",
-    "bio": "",
+    "image": "georgio.jfif",
+    "bio": "Georgio Nassar is the President of the Developer Student Club at LAU Byblos and a Computer Engineering mentor. He’s passionate about community building and supporting students in tech. His interests include frontend web development and exploring augmented reality by creating interactive lenses on Snapchat.",
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -231,10 +231,10 @@
       "designation": "Organizer"
     },
     "community_title": "Organizer American University of Beirut",
-    "image": "mohamad-nassif.png",
-    "bio": "",
+    "image": "nassif.jfif",
+    "bio": "AI, Quantum Computing, and AI Product Management. He serves as Vice Lead at Google Developers Group on Campus AUB and as E2 Representative at IEEE-AUB, driving tech workshops and community initiatives. His experience includes semantic communication research, developing BloodLink, an award-winning blood donation platform, and projects in quantum computing, supervised learning, and network programming. As System Manager at AUB IT Centre, he manages Moodle and AUBX platforms serving 10,000+ users, enhancing system performance and user experience.",
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/mohamad-nassif-04b5b434b/",
       "twitter": "",
       "github": "",
       "web": ""
@@ -249,10 +249,10 @@
       "designation": "Backend Developer"
     },
     "community_title": "Go Backend Developer Monty Mobile",
-    "image": "abdullah-alaadine.png",
-    "bio": "",
+    "image": "alaadine.jfif",
+    "bio": "Abdullah Alaadine is a Go Backend Developer from Beirut, Lebanon, specializing in scalable, high-performance systems and developer tools. He has experience building robust backend services, optimizing databases, and implementing cloud-integrated applications with CI/CD pipelines. Passionate about open-source technologies, Abdullah has worked with Monty Mobile, SKELDUS, and A2Z Media - MENA, and holds certifications in Kubernetes, GitHub Actions, and Google Cloud Platform.",
     "social": {
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/abdullah-alaadine/",
       "twitter": "",
       "github": "",
       "web": ""
@@ -261,19 +261,19 @@
   },
   {
     "id": "6002",
-    "name": "Full Name",
+    "name": "This can be you",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "Developer"
+      "name": "",
+      "designation": ""
     },
-    "community_title": "Developer",
+    "community_title": "",
     "image": "",
-    "bio": "Full Name and Bio",
+    "bio": "This can be You! Contact us to join us as a volunteer.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/",
-      "twitter": "https://twitter.com",
-      "github": "https://github.com",
-      "web": "https://example.com"
+      "twitter": "",
+      "github": "",
+      "web": ""
     },
     "type": "Volunteer"
   }

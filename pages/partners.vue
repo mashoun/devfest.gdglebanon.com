@@ -3,13 +3,9 @@
     <v-container fluid class="mt-5">
       <v-row>
         <v-col md="12">
-          <h1>Team</h1>
+          <h1>Together We Build</h1>
           <p>
-            Our mission is to equip our community members with practical skills,
-            enabling them to communicate their insights and drive innovative
-            solutions effectively. Whatever your challenge, these leaders on the
-            front line of transformation, innovation, and exploration helped
-            solve it with you.
+            GDG Coast Lebanon has collaborated with inspiring partners and sponsors who believe in growing and supporting the tech community. Their support has helped us bring people together, spark ideas, and build meaningful connections.
           </p>
         </v-col>
       </v-row>
@@ -34,8 +30,8 @@ useSeoMeta({
   description: mainData.eventInfo.description.short,
   keywords: mainData.seo.keywords,
   ogLocale:'en_US',
-  author: "OSS Labs",
-  creator: "OSS Labs",
+  author: "GDG Coast Lebanon",
+  creator: "GDG Coast Lebanon",
   viewport: "width=device-width, initial-scale=1.0",
   ogTitle: "Partners - " + mainData.eventInfo.name + " | " + mainData.communityName,
   ogDescription: mainData.eventInfo.description.short,
