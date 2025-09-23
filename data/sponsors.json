@@ -1,22 +1,7 @@
 [
   {
-      "category_name": "Gold Sponsors",
+      "category_name": "Powered By",
       "sponsors": [
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          },
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          },
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          },
           {
               "name":"Google For Developers",
               "link": "https://developers.google.com",
@@ -25,34 +10,13 @@
       ]
   },
   {
-      "category_name": "Silver Sponsors",
+      "category_name": "Hosted By",
       "sponsors": [
           {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          },
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          },
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          }
-      ]
-  },
-  {
-      "category_name": "Our Partners",
-      "sponsors": [
-          {
-              "name":"TechFerment",
-              "link": "https://techferment.com",
-              "logo": "techferment.png"   
+              "name":"Lebanese American University",
+              "link": "https://www.lau.edu.lb/",
+              "logo": "lau.jpg"   
           }
       ]
   }
-
 ]

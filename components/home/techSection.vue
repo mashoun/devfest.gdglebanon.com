@@ -110,7 +110,7 @@ var tech = ref([
   {
     name: "TensorFlow",
     link: "https://www.tensorflow.org/",
-    logo: "https://www.gstatic.com/devrel-devsite/prod/v20ab951cf37b43fc7a428ae75ce91d8269f391204ca16525bc8a5ececea0ab56/tensorflow/images/apple-touch-icon-180x180.png",
+    logo: "https://avatars.githubusercontent.com/u/15658638?s=280&v=4",
   },
 ]);
 </script>

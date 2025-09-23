@@ -2,79 +2,79 @@
   "communityName": "GDG Coast Lebanon",
   "communityLocation": {
     "country": "Lebanon",
-    "city": "Coast Lebanon"
+    "city": "Beirut"
   },
   "communityDescription": "GDG is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.",
   "communityLinks": {
-    "page": "https://gdg.community.dev/gdg-london/",
-    "website": "https://gdg.community.dev/gdg-london/",
-    "instagram": "https://gdg.community.dev/gdg-london/",
-    "linkedin": "https://www.linkedin.com/company/google-developers-london/",
-    "youtube": "https://gdg.community.dev/gdg-london/"
+    "page": "https://gdg.community.dev/gdg-coast-lebanon/",
+    "website": "https://gdg.community.dev/gdg-coast-lebanon/",
+    "instagram": "https://www.instagram.com/gdgcoastlebanon/",
+    "linkedin": "https://www.linkedin.com/company/gdg-coast-lebanon/",
+    "youtube": "https://www.youtube.com/@gdgcoastlebanon513"
   },
   "eventInfo": {
-    "name": "DevFest 2024",
-    "date": "Oct 5, 2024",
+    "name": "DevFest 2025",
+    "date": "Oct 25, 2025",
     "time": "9 AM - 5 PM IST",
     "venue": {
-      "address": "LAU Beirut Campus",
-      "map_link": "https://maps.app.goo.gl/Cm6gXgpugNw74ow6A"
+      "address": "Lebanese American University Beirut Campus",
+      "map_link": "https://maps.app.goo.gl/vsj4VCxT4xrjNQm96"
     },
     "registeration": {
-      "link": "https://gdg.community.dev/",
-      "end_date": "2024-10-25"
+      "link": "https://gdg.community.dev/events/details/google-gdg-coast-lebanon-presents-devfest-beirut-2025/",
+      "end_date": "2025-10-20"
     },
     "description": {
       "short": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.",
-      "long": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc."
+      "long": "DevFest Beirut is where ideas spark, connections grow, and technology comes alive. Here’s what you can expect this year:"
     },
     "stats": [
       {
         "name": "Speakers",
-        "value": "23+",
+        "value": "45+",
         "color": "#C3ECF6",
         "image": "img/common/blue.png"
       },
       {
         "name": "Participants",
-        "value": "700+",
+        "value": "1200+",
         "color": "#F8D8D8",
         "image": "img/common/pink.png"
       },
       {
         "name": "Sessions",
-        "value": "10+",
+        "value": "40+",
         "color": "#CCF6C5",
         "image": "img/common/green.png"
       },
       {
         "name": "Workshops",
-        "value": "2+",
+        "value": "5+",
         "color": "#FFE7A5",
         "image": "img/common/yellow.png"
       }
     ],
     "whatToExpect": [
       {
-        "title": "Technical content",
-        "description": "Events hosted by the Google Developer Groups community, featuring leading experts on Google technologies in areas."
+        "title": "Technical Talks",
+        "description": "Gain actionable insights from Google Developer Experts (GDEs), and industry leaders. Dive into the latest in Mobile, AI/ML, Web, Cloud, and emerging technologies through expert-led sessions."
       },
       {
-        "title": "Technical content",
-        "description": "Events hosted by the Google Developer Groups community, featuring leading experts on Google technologies in areas."
+        "title": "Workshops",
+        "description": "Engage in immersive, hands-on sessions where you’ll code, debug, and experiment with cutting-edge Google technologies and developer tools. Gain practical skills you can apply directly to your projects."
       },
       {
-        "title": "Technical content",
-        "description": "Events hosted by the Google Developer Groups community, featuring leading experts on Google technologies in areas."
+        "title": "Networking",
+        "description": "Be part of an inclusive community of developers, innovators, and tech leaders. Join Q&A sessions, panel discussions, and collaborative activities, and build meaningful connections that last beyond the event."
       }
     ],
     "pastDevFest": {
-      "summery": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente amet asperiores unde. Adipisci nobis ipsum fuga amet? Ut, iusto tenetur quisquam neque consectetur impedit magnam unde harum a mollitia possimus? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores laborum ut praesentium architecto a. Recusandae neque deserunt saepe mollitia quibusdam a nihil dicta in, totam hic molestias eaque. Dolores, nisi.",
+      "summery": "DevFest Beirut 2023 was a celebration of community, collaboration, and innovation. Over 2,000 tech enthusiasts showed interest, and more than 700 passionate individuals came together to share knowledge, connect, and grow. From insightful talks and hands-on workshops to vibrant networking moments, the energy was unforgettable. The full day conference featured 40+ inspiring speakers, including 4 Google Developer Experts, one Googler, backed by 5 incredible sponsors, 3 strategic partners, and 40+ dedicated volunteers. It was proof of what we can achieve as a united tech community in Lebanon. This year, we’re ready to take it even further, bigger, better, and more impactful!",
       "images": ["image-1.png", "image-2.png", "image-3.png"],
       "stats": [
         {
           "name": "Speakers",
-          "value": "23+"
+          "value": "40+"
         },
         {
           "name": "Participants",
@@ -82,11 +82,11 @@
         },
         {
           "name": "Sessions",
-          "value": "10+"
+          "value": "35+"
         },
         {
-          "name": "Workshops",
-          "value": "2+"
+          "name": "International Speakers",
+          "value": "5"
         }
       ]
     }
