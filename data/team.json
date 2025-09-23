@@ -258,23 +258,5 @@
       "web": ""
     },
     "type": "Volunteer"
-  },
-  {
-    "id": "6002",
-    "name": "This can be you",
-    "company": {
-      "name": "",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "",
-    "bio": "This can be You! Contact us to join us as a volunteer.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/",
-      "twitter": "",
-      "github": "",
-      "web": ""
-    },
-    "type": "Volunteer"
   }
 ]
