@@ -5,7 +5,7 @@
         <v-col md="12">
           <h1>Code of Conduct</h1>
           <p>
-            All participants of DevFest 2024 event, online attendees, event
+            All participants of DevFest 2025 event, online attendees, event
             staff, and speakers, must abide by the following policy:
           </p>
 

@@ -24,7 +24,7 @@
           color="black"
           size="small"
           class="align-center pt-1"
-          >{{ mainData.communityLocation.city }}</v-chip
+          >2025</v-chip
         >
       </div>
     </NuxtLink>

@@ -17,7 +17,7 @@
                 announcements
               </h1>
               <p class="mb-3">
-                Stake out #{{ mainData.communityName }} for the latest updates
+                Stake out #GDGCoastLebanon and #DevFestLebanon for the latest updates
                 and news.
               </p>
 

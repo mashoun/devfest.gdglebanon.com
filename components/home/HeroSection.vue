@@ -4,7 +4,7 @@
       <v-col md="6" sm="6" cols="12">
         <h1 class="responsive-h1 my-4">
           DevFest <br />
-          {{ mainData.communityLocation.city }} 2024
+          {{ mainData.communityLocation.city }} 2025
         </h1>
         <p class="" :style="{ maxWidth: '90%' }">
           {{ mainData.eventInfo.description.short }}
