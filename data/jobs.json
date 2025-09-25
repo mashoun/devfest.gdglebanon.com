@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Senior Frontend Developer",
+    "company": "Google",
+    "logo": "Barista.png",
+    "location": "Beirut, Lebanon",
+    "type": "Full-time",
+    "description": "We are looking for an experienced Frontend Developer to join our team. You will be responsible for building the ‘client-side’ of our web applications. You should be able to translate our company and customer needs into functional and appealing interactive applications.",
+    "apply_link": "#",
+    "company_type": "partner"
+  },
+  {
+    "title": "Software Engineer, Machine Learning",
+    "company": "Microsoft",
+    "logo": "microsoft.png",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Join our innovative team of engineers to develop and implement machine learning models. You will work on cutting-edge AI projects that will shape the future of technology.",
+    "apply_link": "#",
+    "company_type": "partner"
+  },
+  {
+    "title": "Software Engineer, Machine Learning",
+    "company": "Microsoft",
+    "logo": "microsoft.png",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Join our innovative team of engineers to develop and implement machine learning models. You will work on cutting-edge AI projects that will shape the future of technology.",
+    "apply_link": "#",
+    "company_type": "partner"
+  },
+  {
+    "title": "Software Engineer, Machine Learning",
+    "company": "Microsoft",
+    "logo": "microsoft.png",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Join our innovative team of engineers to develop and implement machine learning models. You will work on cutting-edge AI projects that will shape the future of technology.",
+    "apply_link": "#",
+    "company_type": "partner"
+  }
+]

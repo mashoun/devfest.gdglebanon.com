@@ -36,6 +36,11 @@
     "visible": true
   },
   {
+    "name": "Jobs",
+    "path": "/jobs",
+    "visible": true
+  },
+  {
     "name": "Team",
     "path": "/team",
     "visible": true
