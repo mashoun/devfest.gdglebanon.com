@@ -8,16 +8,16 @@
                 "name": "Semicolon",
                 "company": {
                     "name": "Semicolon",
-                    "designation": ""
+                    "designation": "Semicolon Academy / SemSec"
                 },
                 "community_title": "",
                 "image": "semicolonlb.jpeg",
                 "logo": "semicolonlb.jpeg",
                 "level": "gold",
-                "bio": "Test",
-                "description": "Test",
+                "bio": "A Lebanese cybersecurity company and training academy focused on ethical hacking, security workshops, penetration testing services and educational programs.",
+                "description": "A Lebanese cybersecurity company and training academy focused on ethical hacking, security workshops, penetration testing services and educational programs.",
                 "social": {
-                    "linkedin": "",
+                    "linkedin": "https://lb.linkedin.com",
                     "web": "https://semsec.org"
                 },
                 "type": "sponsor"
@@ -28,14 +28,14 @@
                 "name": "Murex",
                 "company": {
                     "name": "Murex",
-                    "designation": ""
+                    "designation": "A global fintech / capital markets software company"
                 },
                 "community_title": "",
                 "image": "Murex.png",
                 "logo": "Murex.png",
                 "level": "silver",
-                "bio": "Test",
-                "description": "Test",
+                "bio": "A global fintech / capital markets software company. Their platform MX.3 supports trading, risk, treasury and post-trade operations used by banks and financial institutions around the world.",
+                "description": "A global fintech / capital markets software company. Their platform MX.3 supports trading, risk, treasury and post-trade operations used by banks and financial institutions around the world.",
                 "social": {
                     "linkedin": "",
                     "web": "https://murex.com"
@@ -47,17 +47,17 @@
                 "name": "Supportful",
                 "company": {
                     "name": "Supportful",
-                    "designation": ""
+                    "designation": "Software Engineering Consulting"
                 },
                 "community_title": "",
-                "image": "supportful.png",
-                "logo": "supportful.png",
+                "image": "Supportful.png",
+                "logo": "Supportful.png",
                 "level": "bronze",
-                "bio": "Test",
-                "description": "Test",
+                "bio": "A software engineering consulting firm that helps global tech startups scale by providing remote engineers (frontend, backend, mobile, DevOps, QA) from Lebanon.",
+                "description": "A software engineering consulting firm that helps global tech startups scale by providing remote engineers (frontend, backend, mobile, DevOps, QA) from Lebanon.",
                 "social": {
                     "linkedin": "",
-                    "web": "https://supportful.com"
+                    "web": "https://lebanese.tech"
                 },
                 "type": "sponsor"
             }
@@ -97,7 +97,8 @@
             "image": "googlefordevelopers.png",
             "logo": "googlefordevelopers.png",
             "level": "main supporter",
-            "bio": "Google's developer platform that helps you build, grow, and scale with Google's technologies.",
+            "bio": "Google's official developer platform offering APIs, SDKs, tools, documentation, training, and support for software developers worldwide.",
+            "description": "Google's official developer platform offering APIs, SDKs, tools, documentation, training, and support for software developers worldwide.",
             "social": {
                 "linkedin": "https://www.linkedin.com/company/googlefordevelopers/",
                 "web": "https://developers.google.com"
