@@ -25,7 +25,7 @@
     "image": "RIHAMBADRIZEIDAN.png",
     "bio": "Community builder with a background in Computer Science. Riham brings five years of experience organizing large-scale developer events, securing high-value sponsorships, and building partnerships across the tech ecosystem. Passionate about empowering communities, leading teams, and creating programs that inspire learning and collaboration. Invited speaker at the GDG Summit Berlin, organized by Google, where Riham delivered a talk on securing sponsorships for tech events.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/sandali-singh/"
+      "linkedin": "https://www.linkedin.com/in/mashoun/"
     },
     "type": "Leader"
   },
@@ -69,7 +69,7 @@
       "designation": "Lecturer"
     },
     "community_title": "Mentor",
-    "image": "ammar.png",
+    "image": "Ammar.png",
     "bio": "Dr. Ammar is a Lecturer and AI Consultant with extensive academic and industry experience across machine learning, MLOps, explainable AI, and edge AI. His work bridges research and real-world deployment — from training AI practitioners to advising startups and building robust ML pipelines. Through teaching, mentorship, and open-source contributions, he strives to make AI accessible, ethical, and impactful. He is particularly passionate about graph learning, prompt engineering, and bringing AI closer to real-time, resource-constrained environments.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/ammarmohanna/",
@@ -105,7 +105,7 @@
       "designation": "Project Manager"
     },
     "community_title": "Partnership Manager Lebanese American University",
-    "image": "tabarra.png",
+    "image": "Tabarra.png",
     "bio": "",
     "social": {
       "linkedin": "https://www.linkedin.com/in/mohamad-ali-tabbara/",
@@ -123,7 +123,7 @@
     "designation": "Co-Founder"
   },
   "community_title": "Organizer",
-  "image": "darsa.png",
+  "image": "Darsa.png",
   "bio": "Mohammad Darsa is a Software Engineer and Data Engineer at Proximie, and Co-Founder of MacroVision Tech Agency. He is passionate about data and building systems that deliver impactful solutions across fintech, telecom, banking, and healthcare. Mohammad specializes in designing and maintaining scalable backend systems, developing efficient data pipelines, and integrating complex services to streamline operations. With experience in secure data communication, workflow optimization, and delivering reliable business-critical solutions, he thrives on solving challenging problems and leveraging his engineering expertise to create robust, high-impact systems.",
   "social": {
     "linkedin": "https://www.linkedin.com/in/mohammad-darsa/",
@@ -141,7 +141,7 @@
       "designation": "Instructor"
     },
     "community_title": "Organizer",
-    "image": "",
+    "image": "sarah-rashidi.jpeg",
     "bio": "Sarah is a University Instructor at Rafik Hariri University (RHU), where she teaches computer science and helps students bridge theory with practical applications. She is also an AI Researcher, Engineer, and Architect with over three years of experience building scalable AI systems, with a focus on MLOps, generative AI, and applied machine learning. Holding dual master’s degrees in Computer Science and Data Intelligence, she works at the intersection of research and engineering to design solutions that connect innovation with real-world impact. Beyond her professional work, Sarah is an active community leader. She joined Google Developer Groups (GDG) as an organizer earlier this year and is the founder of Code with Serah, a STEAM community at the crossroads of technology and creativity. Through these initiatives, she creates inclusive spaces for young people to learn, collaborate, and bring their ideas to life.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/serahrashidi/",
@@ -159,7 +159,7 @@
       "designation": "Data and AI Specialist"
     },
     "community_title": "Organizer",
-    "image": "hanine.png",
+    "image": "Hanine.png",
     "bio": "Hanine is a passionate Data and AI Specialist at CCI, where she develops data-driven solutions to empower businesses. A recent graduate of LAU, she is also engaged in AI research, exploring innovative approaches to advance the field of technology.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/haneen-albayoud/",
@@ -177,7 +177,7 @@
       "designation": "Computer Science Student"
     },
     "community_title": "Organizer",
-    "image": "sandra.png",
+    "image": "Sandra.png",
     "bio": "Senior Computer Science student at the Lebanese University and currently leading GDG on Campus there. Semicolon Student Ambassador. Active volunteer with the Lebanese Red Cross - Youth Sector. Passionate, proactive, and always taking initiative.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/sandra-farhat/",
@@ -195,7 +195,7 @@
       "designation": "Backend Engineer Intern"
     },
     "community_title": "Organizer",
-    "image": "amir.png",
+    "image": "Amir.png",
     "bio": "Backend Engineer Intern at Oreyeon and Master’s student at the Lebanese University. I love building tech that makes a real impact and kickstarting meaningful initiatives. Previously led GDG on Campus at the Lebanese University.",
     "social": {
       "linkedin": "https://lb.linkedin.com/in/amir-bou-ghanem",
@@ -213,7 +213,7 @@
       "designation": "Student"
     },
     "community_title": "Organizer",
-    "image": "georgio.png",
+    "image": "Georgio.png",
     "bio": "Georgio Nassar is the President of the Developer Student Club at LAU Byblos, a Google Developer Group Organizer, and a Computer Engineering Mentor at LAU. He is also an active member of the IEEE LAU Student Branch. Dedicated to community building and student empowerment, Georgio has collaboratively hosted over 15 technical sessions and workshops, creating opportunities for students to learn, network, and grow in tech. Beyond community leadership, Georgio is passionate about frontend development with frameworks like Angular and React, and he actively explores augmented reality by creating interactive Snapchat lenses. His creative work has reached a global audience of 180M+ views, earning him an Honorable Mention by Snapchat and Lenslist for innovation in AR experiences.",
     "social": {
       "linkedin": "",
@@ -231,7 +231,7 @@
       "designation": "Student"
     },
     "community_title": "Organizer American University of Beirut",
-    "image": "nassif.png",
+    "image": "Nassif.png",
     "bio": "AI, Quantum Computing, and AI Product Management. He serves as Vice Lead at Google Developers Group on Campus AUB and as E2 Representative at IEEE-AUB, driving tech workshops and community initiatives. His experience includes semantic communication research, developing BloodLink, an award-winning blood donation platform, and projects in quantum computing, supervised learning, and network programming. As System Manager at AUB IT Centre, he manages Moodle and AUBX platforms serving 10,000+ users, enhancing system performance and user experience.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/mohamad-nassif-04b5b434b/",
@@ -249,7 +249,7 @@
       "designation": "Go Backend Developer"
     },
     "community_title": "Go Backend Developer Monty Mobile",
-    "image": "alaadine.png",
+    "image": "Alaadine.png",
     "bio": "Abdullah Alaadine is a Go Backend Developer from Beirut, Lebanon, specializing in scalable, high-performance systems and developer tools. He has experience building robust backend services, optimizing databases, and implementing cloud-integrated applications with CI/CD pipelines. Passionate about open-source technologies, Abdullah has worked with Monty Mobile, SKELDUS, and A2Z Media - MENA, and holds certifications in Kubernetes, GitHub Actions, and Google Cloud Platform.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/abdullah-alaadine/",
