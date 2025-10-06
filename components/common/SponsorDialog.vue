@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue';
+import SpeakerSocialButton from './speakerSocialButton.vue';
 
 interface Company {
   name: string;
@@ -41,9 +42,9 @@ const getLevelColor = (level?: string, type?: string): string => {
   if (level) {
     const colors: Record<string, string> = {
       'platinum': '#D4D2D0',  // Slightly darker platinum
-      'gold': '#FFC107',      // More vibrant gold
-      'silver': '#B0B0B0',    // Slightly darker silver
-      'bronze': '#B87333',    // Richer bronze
+      'gold': '#ff9902ff',      // More vibrant gold
+      'silver': '#c0c0c0ff',    // Slightly darker silver
+      'bronze': '#e06666ff',    // Richer bronze
       'partner': '#3367D6',   // Deeper blue
       'sponsor': '#2E7D32'    // Deeper green
     };
@@ -58,10 +59,12 @@ const formatLevel = (level?: string): string => {
 };
 
 const getSponsorType = (type?: string): string => {
-  if (!type || type.toLowerCase() === 'sponsor' || type.toLowerCase() === 'partner') {
-    return '';
-  }
+  if (!type || type.toLowerCase() === 'sponsor') return 'Sponsor';
   return type.charAt(0).toUpperCase() + type.slice(1).toLowerCase();
+};
+
+const getTextColor = (level?: string): string => {
+  return level?.toLowerCase() === 'gold' ? 'black' : 'white';
 };
 
 const onDialogUpdate = (value: boolean) => {
@@ -82,7 +85,7 @@ const onDialogUpdate = (value: boolean) => {
     <v-card
       max-width="800"
       rounded="xl"
-      class="pa-4"
+      class="pa-4 google-sans"
       :style="{
         '--level-color': getLevelColor(sponsor?.level, sponsor?.type),
         '--v-theme-surface': 'white',
@@ -102,19 +105,21 @@ const onDialogUpdate = (value: boolean) => {
                 :src="'/img/sponsors/' + (sponsor?.logo || sponsor?.image || 'default-logo.png')"
               ></v-img>
             </div>
-            <div class="mt-4 text-center">
-              <SpeakerSocialButton :social-links="sponsor?.social || {}" :dark="false" />
+            <div class="mt-4 text-center" v-if="sponsor?.social && Object.keys(sponsor.social).length > 0">
+              <SpeakerSocialButton :social-links="sponsor.social" :dark="false" />
             </div>
           </v-col>
           <v-col md="8" cols="12" class="d-flex flex-column">
             <div class="d-flex align-center flex-wrap" style="gap: 1rem;">
-              <h1 class="sponsor-name my-0">{{ sponsor?.name }}</h1>
+              <h1 class="sponsor-name my-0 google-sans">{{ sponsor?.name }}</h1>
               
               <!-- Level Badge -->
               <v-chip
                 v-if="sponsor?.level || sponsor?.type"
                 :color="getLevelColor(sponsor?.level, sponsor?.type)"
-                class="level-badge"
+                :class="['level-badge font-weight-bold', { 'text-black': getTextColor(sponsor?.level) === 'black' }]"
+                variant="flat"
+                density="comfortable"
                 label
                 size="small"
               >
@@ -123,7 +128,7 @@ const onDialogUpdate = (value: boolean) => {
               </v-chip>
             </div>
             
-            <p class="mt-4" v-if="sponsor?.bio || sponsor?.description">
+            <p class="mt-4 google-sans" v-if="sponsor?.bio || sponsor?.description">
               {{ sponsor?.bio || sponsor?.description }}
             </p>
             
@@ -194,6 +199,23 @@ const onDialogUpdate = (value: boolean) => {
   margin: 0.5rem 0 !important;
   letter-spacing: 0.01em;
   text-transform: none !important;
+}
+
+/* Gold level badge with black text */
+.level-badge[style*="background-color:#ff9900"],
+.level-badge[style*="background-color: #ff9900"] {
+  color: #202124 !important;
+  --v-theme-on-surface: #202124 !important;
+  --v-theme-text-primary: #202124 !important;
+  --v-theme-on-background: #202124 !important;
+}
+
+/* All other level badges with white text */
+.level-badge:not([style*="background-color: #ff9900"]):not([style*="background-color:#ff9900"]) {
+  color: white !important;
+  --v-theme-on-surface: white !important;
+  --v-theme-text-primary: white !important;
+  --v-theme-on-background: white !important;
 }
 
 p, .text-body-2 {

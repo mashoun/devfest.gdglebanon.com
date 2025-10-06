@@ -4,7 +4,7 @@
         "category_id":"sponsor",
         "sponsors": [
             {
-                "id": "1",
+                "company_id": "1",
                 "name": "Semicolon",
                 "company": {
                     "name": "Semicolon",
@@ -24,7 +24,7 @@
 
             },
             {
-                "id": "2",
+                "company_id": "2",
                 "name": "Murex",
                 "company": {
                     "name": "Murex",
@@ -43,7 +43,7 @@
                 "type": "sponsor"
             },
             { 
-                "id": "3",
+                "company_id": "3",
                 "name": "Supportful",
                 "company": {
                     "name": "Supportful",
@@ -68,7 +68,7 @@
       "category_id":"supporter",
       "sponsors": [
         {
-            "id": "4",
+            "company_id": "4",
             "name": "Lebanese American University",
             "company": {
                 "name": "Lebanese American University",
@@ -87,7 +87,7 @@
             "type": "supporter"
         },
           {
-            "id": "5",
+            "company_id": "5",
             "name": "Google For Developers",
             "company": {
                 "name": "Google",

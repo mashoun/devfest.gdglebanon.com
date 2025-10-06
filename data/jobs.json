@@ -1,34 +1,18 @@
 [
   {
-    "title": "Senior Frontend Developer",
+    "title": "Junior Full Stack Engineer - ISAI",
     "location": "Beirut, Lebanon",
     "type": "Full-time",
-    "description": "We are looking for an experienced Frontend Developer to join our team. You will be responsible for building the 'client-side' of our web applications. You should be able to translate our company and customer needs into functional and appealing interactive applications.",
-    "apply_link": "https://rsvp.gdglebanon.com/",
-    "company_id": "5"
+    "description": " As a Full Stack Developer, you will design and build the web experience for our AI-powered solution. Your primary focus will be on full-stack web development, while also contributing to data workflows and ETL processes that support our intelligent systems.",
+    "apply_link": "https://murex.wd3.myworkdayjobs.com/en-US/MurexCareerPage1/details/Junior-Full-Stack-Engineer---ISAI_JR101843?locations=4e70ce22e010100201f430535a7a0000",
+    "company_id": "2"
   },
   {
-    "title": "Software Engineer, Machine Learning",
+    "title": "Senior Software Engineer (Java)",
     "location": "Remote",
     "type": "Full-time",
-    "description": "Join our innovative team of engineers to develop and implement machine learning models. You will work on cutting-edge AI projects that will shape the future of technology.",
-    "apply_link": "https://rsvp.gdglebanon.com/",
-    "company_id": "6"
-  },
-  {
-    "title": "Data Scientist",
-    "location": "Remote",
-    "type": "Full-time",
-    "description": "We are seeking a skilled Data Scientist to analyze complex data and generate insights that will help drive business decisions.",
-    "apply_link": "https://rsvp.gdglebanon.com/",
-    "company_id": "5"
-  },
-  {
-    "title": "DevOps Engineer",
-    "location": "Beirut, Lebanon",
-    "type": "Full-time",
-    "description": "Join our team to build and maintain our cloud infrastructure and CI/CD pipelines, ensuring high availability and performance.",
-    "apply_link": "https://rsvp.gdglebanon.com/",
-    "company_id": "3"
+    "description": "You will design, implement and evolve solutions in the framework that orchestrates the software development lifecycle, quality assurance activities, and release management processes, all while ensuring backward compatibility across systems and versions.\n\n**Responsibilities:**\n- Design, develop, test, and deploy high-quality software solutions\n- Perform code reviews and ensure best practices in software development\n- Collaborate with product managers, DevOps, and other engineers\n- Mentor and support junior developers\n- Participate in architecture and design discussions\n- Optimize application performance and scalability by driving technical enablers\n- Ensure security and data protection in software design\n- Stay updated with emerging technologies and industry trends\n\n**Job Requirements:**\n- Bachelor's or Master's degree in Computer Science or Engineering and/or equivalent experience\n- 3+ years of software development experience\n- Strong proficiency in Java\n- Solid understanding of software engineering principles, object-oriented programming and design patterns\n- Familiarity with CI/CD pipelines and DevOps practices\n- English is a must, French a plus\n- Teamwork and cross-team collaboration\n- Analytical thinking and Problem-solving skills\n- Collaborative mindset and ability to work effectively across teams\n\n**Preferred Qualifications:**\n- Experience in developing applications using Spring Boot framework\n- Knowledge of containerization (Docker, Kubernetes)\n- Experience in web application development using Angular framework\n- Experience in Agile/Scrum environments",
+    "apply_link": "https://murex.wd3.myworkdayjobs.com/en-US/MurexCareerPage1/details/Senior-Software-Engineer--Java-_JR101863?locations=4e70ce22e010100201f430535a7a0000",
+    "company_id": "2"
   }
 ]

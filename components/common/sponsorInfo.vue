@@ -3,7 +3,7 @@
     <div v-for="(item, index) in sponsorsData || []" :key="index" class="mb-8">
       <v-row class="google-font mx-0">
         <v-col cols="12" class="py-0 px-4">
-          <h2 class="text-h5 mb-1 text-left">{{ item.category_name }}</h2>
+          <h2 class="text-h5 mb-1 text-left" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{ item.category_name }}</h2>
           <v-divider class="mb-3"></v-divider>
         </v-col>
       </v-row>
@@ -47,7 +47,10 @@
                 v-if="sponsor.level"
                 size="small"
                 :color="getLevelColor(sponsor.level, item.category_id)"
+                variant="flat"
+                density="comfortable"
                 class="text-caption font-weight-bold google-sans mx-auto"
+                :text-color="getTextColorClass(sponsor.level)"
                 label
                 :class="getTextColorClass(sponsor.level)"
                 style="min-width: 80px;"
@@ -122,7 +125,7 @@ const getTextColorClass = (level) => {
   if (!level) return '';
   const lowerLevel = level.toLowerCase();
   // Only silver will have black text, others will have white text for better contrast
-  return lowerLevel === 'silver' ? 'black--text' : 'white--text';
+  return 'white--text';
 };
 
 </script>
@@ -328,12 +331,12 @@ h2.text-h5 {
 
 .v-chip[color="gold"] {
   background-color: var(--level-gold);
-  color: #202124;
+  color: #FFFFFF;
 }
 
 .v-chip[color="silver"] {
   background-color: var(--level-silver);
-  color: #202124;
+  color: #FFFFFF;
 }
 
 .v-chip[color="bronze"] {

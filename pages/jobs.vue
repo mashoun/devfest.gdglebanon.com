@@ -309,9 +309,9 @@ const getLevelColor = (level, categoryId) => {
   if (!level) return 'primary';
   
   const levelColors = {
-    'gold': '#FFC000',
-    'silver': '#A0A0A0',
-    'bronze': '#B87333',
+    'gold': '#ff9902ff',
+    'silver': '#c0c0c0ff',
+    'bronze': '#e06666ff',
     'host': '#2E8B57',
     'main supporter': '#3367D6',
     'media partner': '#D33426',
