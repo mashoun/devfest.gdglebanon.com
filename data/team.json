@@ -3,10 +3,10 @@
     "id": "6001",
     "name": "Abdul Rahman Masri Attal",
     "company": {
-      "name": "GDG Lead and MUG Lead",
-      "designation": "Developer"
+      "name": "GDG Coast & North Lebanon",
+      "designation": "Chapter Lead"
     },
-    "community_title": "Google Developer Groups Organizer",
+    "community_title": "GDG Leader and founder",
     "image": "AbdulRahman.png",
     "bio": "Abdul Rahman is a dedicated Software Engineer specializing in backend development, with a strong passion for building innovative solutions that drive organizational success. He brings comprehensive experience across the full software development lifecycle—from initial concept through to final delivery. His technical expertise spans technologies such as MongoDB, Node.js, Go, and PHP (Laravel), and he has contributed to a wide range of projects including exchange desk platforms, delivery systems, and ticketing services. Now based in France, Abdul Rahman continues his community engagement as a team member of GDG Paris and MongoDB User Group Leader. He remains deeply committed to fostering knowledge-sharing and meaningful connections within the global tech ecosystem. His long-standing contributions to the developer ecosystem have been recognized through exclusive invitations to Google I/O Connect events worldwide. A prominent figure in the tech community, Abdul Rahman has consistently demonstrated strong leadership and organizational capabilities. In Lebanon, he founded the Google Developer Student Club at the Lebanese University - Faculty of Sciences, Hadath, and has served as a core co-organizer of Google Developer Groups (GDG) in Lebanon since 2018. He played a pivotal role in revitalizing Lebanon’s tech event scene—spearheading the return of DevFest to the country after Covid and most recently DevFest Beirut 2023, which attracted over 700 attendees, and other high-impact events such as Build with AI 2025.",
     "social": {
@@ -18,12 +18,12 @@
     "id": "6002",
     "name": "Riham Zeidan",
     "company": {
-      "name": "The Sophia Collective",
+      "name": "GDG Coast Lebanon",
       "designation": "Community Builder"
     },
-    "community_title": "Google Developer Groups Lead",
+    "community_title": "Chapter Lead",
     "image": "RIHAMBADRIZEIDAN.png",
-    "bio": "Enthusiastic, a highly-motivated computer science graduate. Mentor at Google Developer Student Clubs Community. Organizer at Google Developer Groups. Ambassador at Women Techmakers. Takes initiative and seeks out new challenges. Passionate about our developers' community and eager to learn and share knowledge with others. Organized more than 40 workshops and events for our fellow students at GDSC Lebanese University. Focused on Web and Mobile Development.",
+    "bio": "Community builder with a background in Computer Science. Riham brings five years of experience organizing large-scale developer events, securing high-value sponsorships, and building partnerships across the tech ecosystem. Passionate about empowering communities, leading teams, and creating programs that inspire learning and collaboration. Invited speaker at the GDG Summit Berlin, organized by Google, where Riham delivered a talk on securing sponsorships for tech events.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/sandali-singh/"
     },
@@ -34,11 +34,11 @@
     "name": "Mahmoud Mashoun",
     "company": {
       "name": "GDG Coast Lebanon",
-      "designation": "Developer"
+      "designation": "Core Organizer & Developer"
     },
     "community_title": "GDG Coast Lebanon Organizer",
-    "image": "Mahmoud.jfif",
-    "bio": "I have experience in building responsive and dynamic web apps using Vue.js ● I provide Full Stack Solutions that extends the Automation of Google Cloud using Google Apps Script & Firebase ● Along with a proven ability to integrate SEO best practices and AI models like ChatGPT and Gemini ● I am also a GDG organiser ( Google Developer Groups ) a community from Google Developers.",
+    "image": "Mahmoud.png",
+    "bio": "Mahmoud is experienced in building responsive and dynamic web applications using Vue.js and provides full-stack solutions that extend automation on Google Cloud through Google Apps Script and Firebase. He has a proven ability to integrate SEO best practices and leverage AI models such as ChatGPT and Gemini to enhance user experiences. Beyond his technical work, Mahmoud is an active Google Developer Groups (GDG) organizer, contributing to the global developer community supported by Google through collaboration and knowledge-sharing.",
       "socials":{"linkedin": "https://www.linkedin.com/in/s-shivam/"
     },
     "type": "Core"
@@ -48,12 +48,12 @@
     "name": "Dr. Nadine Abbas",
     "company": {
       "name": "Lebanese American University",
-      "designation": ""
+      "designation": "Assistant Professor"
     },
-    "community_title": "Organizer / Mentor",
+    "community_title": "Mentor",
     "image": "NadineAbbas.png",
-    "bio": "Dr. Nadine Abbas is an Assistant Professor in the Computer Science and Mathematics department at the Lebanese American University (LAU). She earned a BE degree in Computer and Communication Engineering from Notre Dame University (NDU) in 2008. She received her M.E. and Ph.D. degrees in Electrical and Computer Engineering from the American University of Beirut (AUB) in 2011 and 2017, respectively. Dr. Abbas has received several awards including a visiting researcher position in 2012 at Intel Corporation USA, in addition to a scholarship from the Lebanese National Council for Scientific Research 2015-2017, and NDU’s Engineering Research Innovation Award in 2008. She serves as the Membership Development officer of the IEEE Lebanon Section, the Vice Chair of the IEEE WIE Lebanon, the Membership Development officer of the IEEE Communication Society Lebanon, and the Technical Lead at Beirut AI. Her research interests include mobile edge computing and wireless communications. The aim is to provide novel solutions that address emerging challenges in the design of next-generation heterogeneous wireless networks, including ultra-reliable and low-latency communication systems in the context of 5G/6G mobile communications, tactile internet, internet of things, and cognitive vehicular-to-everything networks.",
-    "social": {
+    "bio": "Dr. Nadine Abbas is an Assistant Professor of Computer Science at the Lebanese American University (LAU). She is an IEEE Senior Member and actively contributes to IEEE through multiple leadership roles. She serves as a member of the IEEE Region 8 Membership Development Committee, the Membership Development Officer of the IEEE Lebanon Section, the Chair of IEEE Women in Engineering Lebanon, and the Activity Coordinator of the IEEE Communications Society Lebanon. Previously, she chaired the IEEE Region 8 Ad Hoc Committee on Alternate Payment Methods (2023–2024). She is currently the Director of the Software Institute at LAU, a Google Women Techmakers Ambassador, and the Technical Advisor of UPaint. She earned a BE degree in Computer and Communication Engineering from Notre Dame University (NDU) in 2008. She received her M.E. and Ph.D. degrees in Electrical and Computer Engineering from the American University of Beirut (AUB) in 2011 and 2017, respectively. Dr. Abbas has received multiple awards, including a scholarship from the Lebanese National Council for Scientific Research (2015–2017) and the NDU Engineering Research Innovation Award (2008). She was a visiting researcher at Intel Corporation, USA, in 2012 and at École de Technologie Supérieure (ETS) in Canada in May 2024. She has engaged in publishing and peer reviewing for prestigious journals and conferences. Her research focuses on mobile edge computing and wireless communications, developing innovative solutions for next-generation heterogeneous networks, including 5G/6G mobile systems, the Internet of Things, and UAV-aided communications.",
+    "social":{
       "linkedin": "https://lb.linkedin.com/in/nadine-abbas",
       "twitter": "",
       "github": "",
@@ -66,10 +66,10 @@
     "name": "Dr. Ammar Mohanna",
     "company": {
       "name": "American University of Beirut",
-      "designation": ""
+      "designation": "Lecturer"
     },
-    "community_title": "Organizer / Mentor",
-    "image": "ammar.jfif",
+    "community_title": "Mentor",
+    "image": "ammar.png",
     "bio": "Dr. Ammar is a Lecturer and AI Consultant with extensive academic and industry experience across machine learning, MLOps, explainable AI, and edge AI. His work bridges research and real-world deployment — from training AI practitioners to advising startups and building robust ML pipelines. Through teaching, mentorship, and open-source contributions, he strives to make AI accessible, ethical, and impactful. He is particularly passionate about graph learning, prompt engineering, and bringing AI closer to real-time, resource-constrained environments.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/ammarmohanna/",
@@ -84,10 +84,10 @@
     "name": "Christoph El Khoury",
     "company": {
       "name": "The Entity & The Collective",
-      "designation": ""
+      "designation": "Founder"
     },
-    "community_title": "Organizer / Community Builder",
-    "image": "chris.jfif",
+    "community_title": "Mentor",
+    "image": "chris.png",
     "bio": "Christophe is a systems thinker and CTO who helps founders, startups, and SMEs transform vision into execution through cultural, operational, and leadership systems. With a background in software engineering and psychology, he bridges bold ideas with sustainable delivery across sectors like mental health, education, finance, and leadership development. He leads The Entity, an execution-focused consultancy, and The Collective, a national initiative fostering collaboration in Lebanon’s tech ecosystem. A frequent speaker and advisor, Chris is especially committed to supporting underrepresented and women-led teams, always centering his work on building what truly matters.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/christopheek/",
@@ -101,11 +101,11 @@
     "id": "6009",
     "name": "Mohamad Ali Tabbara",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "Partnership Manager"
+      "name": "Pixel38",
+      "designation": "Project Manager"
     },
     "community_title": "Partnership Manager Lebanese American University",
-    "image": "tabarra.jfif",
+    "image": "tabarra.png",
     "bio": "",
     "social": {
       "linkedin": "https://www.linkedin.com/in/mohamad-ali-tabbara/",
@@ -119,11 +119,11 @@
   "id": "6024",
   "name": "Mohammad Darsa",
   "company": {
-    "name": "",
-    "designation": ""
+    "name": "Mactovision.io",
+    "designation": "Co-Founder"
   },
-  "community_title": "Organizer / Community Member",
-  "image": "darsa.jfif",
+  "community_title": "Organizer",
+  "image": "darsa.png",
   "bio": "Mohammad Darsa is a Software Engineer and Data Engineer at Proximie, and Co-Founder of MacroVision Tech Agency. He is passionate about data and building systems that deliver impactful solutions across fintech, telecom, banking, and healthcare. Mohammad specializes in designing and maintaining scalable backend systems, developing efficient data pipelines, and integrating complex services to streamline operations. With experience in secure data communication, workflow optimization, and delivering reliable business-critical solutions, he thrives on solving challenging problems and leveraging his engineering expertise to create robust, high-impact systems.",
   "social": {
     "linkedin": "https://www.linkedin.com/in/mohammad-darsa/",
@@ -137,12 +137,12 @@
     "id": "6017",
     "name": "Sarah Rashidi",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "Organizer"
+      "name": "Rafi Hariri University",
+      "designation": "Instructor"
     },
     "community_title": "Organizer",
     "image": "",
-    "bio": "Sarah Rashidi is an AI researcher and community builder passionate about ethical technology and its real-world impact. She is the Founder of CodeWithSerah, a global initiative with 900+ members empowering Gen Z & Gen Alpha in tech, and has led projects across NLP, Knowledge Graphs, and Quantum Machine Learning. An award-winning innovator and Top 1% LeetCode solver, Sarah is also active in communities like Young4STEM, All Girls Code, and GDG Lebanon, mentoring and inspiring the next generation of tech leaders.",
+    "bio": "Sarah is a University Instructor at Rafik Hariri University (RHU), where she teaches computer science and helps students bridge theory with practical applications. She is also an AI Researcher, Engineer, and Architect with over three years of experience building scalable AI systems, with a focus on MLOps, generative AI, and applied machine learning. Holding dual master’s degrees in Computer Science and Data Intelligence, she works at the intersection of research and engineering to design solutions that connect innovation with real-world impact. Beyond her professional work, Sarah is an active community leader. She joined Google Developer Groups (GDG) as an organizer earlier this year and is the founder of Code with Serah, a STEAM community at the crossroads of technology and creativity. Through these initiatives, she creates inclusive spaces for young people to learn, collaborate, and bring their ideas to life.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/serahrashidi/",
       "twitter": "",
@@ -155,11 +155,11 @@
     "id": "6019",
     "name": "Hanin Albayoud",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "CCI ‐ ICT Innovations"
+      "name": "CCI ‐ ICT Innovations",
+      "designation": "Data and AI Specialist"
     },
-    "community_title": "CCI ‐ ICT Innovations",
-    "image": "hanine.jfif",
+    "community_title": "Organizer",
+    "image": "hanine.png",
     "bio": "Hanine is a passionate Data and AI Specialist at CCI, where she develops data-driven solutions to empower businesses. A recent graduate of LAU, she is also engaged in AI research, exploring innovative approaches to advance the field of technology.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/haneen-albayoud/",
@@ -167,38 +167,38 @@
       "github": "",
       "web": ""
     },
-    "type": "Core"
+    "type": "Volunteer"
   },
   {
     "id": "6018",
     "name": "Sandra Farhat",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "Organizer"
+      "name": "Lebanese University",
+      "designation": "Computer Science Student"
     },
     "community_title": "Organizer",
-    "image": "sandra.jfif",
-    "bio": "Sandra is a Computer Science student at Lebanese University with a passion for coding and problem-solving. She has experience in programming languages such as C, C++, and Python, as well as web development, database management, and algorithms. She has completed academic projects including an Arduino water tank level tracker and a mini murder mystery website game. Interested in front-end development, AI, cybersecurity, mobile apps, and robotics, Sandra is actively seeking internships and collaborative projects to apply her skills and contribute to innovative tech solutions.",
+    "image": "sandra.png",
+    "bio": "Senior Computer Science student at the Lebanese University and currently leading GDG on Campus there. Semicolon Student Ambassador. Active volunteer with the Lebanese Red Cross - Youth Sector. Passionate, proactive, and always taking initiative.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/sandra-farhat/",
       "twitter": "",
       "github": "",
       "web": ""
     },
-    "type": "Core"
+    "type": "Volunteer"
   },
   {
     "id": "6015",
     "name": "Amir Bou Ghanem",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "GDG on Campus"
+      "name": "Oreyon",
+      "designation": "Backend Engineer Intern"
     },
-    "community_title": "GDG on Campus • Lebanese University",
-    "image": "amir.jfif",
+    "community_title": "Organizer",
+    "image": "amir.png",
     "bio": "Backend Engineer Intern at Oreyeon and Master’s student at the Lebanese University. I love building tech that makes a real impact and kickstarting meaningful initiatives. Previously led GDG on Campus at the Lebanese University.",
     "social": {
-      "linkedin": "",
+      "linkedin": "https://lb.linkedin.com/in/amir-bou-ghanem",
       "twitter": "",
       "github": "",
       "web": ""
@@ -209,29 +209,29 @@
     "id": "6016",
     "name": "Georgio Nassar",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "Organizer"
+      "name": "Lebanese American University",
+      "designation": "Student"
     },
     "community_title": "Organizer",
-    "image": "georgio.jfif",
-    "bio": "Georgio Nassar is the President of the Developer Student Club at LAU Byblos and a Computer Engineering mentor. He’s passionate about community building and supporting students in tech. His interests include frontend web development and exploring augmented reality by creating interactive lenses on Snapchat.",
+    "image": "georgio.png",
+    "bio": "Georgio Nassar is the President of the Developer Student Club at LAU Byblos, a Google Developer Group Organizer, and a Computer Engineering Mentor at LAU. He is also an active member of the IEEE LAU Student Branch. Dedicated to community building and student empowerment, Georgio has collaboratively hosted over 15 technical sessions and workshops, creating opportunities for students to learn, network, and grow in tech. Beyond community leadership, Georgio is passionate about frontend development with frameworks like Angular and React, and he actively explores augmented reality by creating interactive Snapchat lenses. His creative work has reached a global audience of 180M+ views, earning him an Honorable Mention by Snapchat and Lenslist for innovation in AR experiences.",
     "social": {
       "linkedin": "",
       "twitter": "",
       "github": "",
       "web": ""
     },
-    "type": "Core"
+    "type": "Volunteer"
   },
    {
     "id": "6014",
     "name": "Mohamad Nassif",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "Organizer"
+      "name": "American University of Beirut",
+      "designation": "Student"
     },
     "community_title": "Organizer American University of Beirut",
-    "image": "nassif.jfif",
+    "image": "nassif.png",
     "bio": "AI, Quantum Computing, and AI Product Management. He serves as Vice Lead at Google Developers Group on Campus AUB and as E2 Representative at IEEE-AUB, driving tech workshops and community initiatives. His experience includes semantic communication research, developing BloodLink, an award-winning blood donation platform, and projects in quantum computing, supervised learning, and network programming. As System Manager at AUB IT Centre, he manages Moodle and AUBX platforms serving 10,000+ users, enhancing system performance and user experience.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/mohamad-nassif-04b5b434b/",
@@ -239,17 +239,17 @@
       "github": "",
       "web": ""
     },
-    "type": "Core"
+    "type": "Volunteer"
   },
   {
     "id": "6020",
     "name": "Abdullah AlaaDine",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "Backend Developer"
+      "name": "MyMonty",
+      "designation": "Go Backend Developer"
     },
     "community_title": "Go Backend Developer Monty Mobile",
-    "image": "alaadine.jfif",
+    "image": "alaadine.png",
     "bio": "Abdullah Alaadine is a Go Backend Developer from Beirut, Lebanon, specializing in scalable, high-performance systems and developer tools. He has experience building robust backend services, optimizing databases, and implementing cloud-integrated applications with CI/CD pipelines. Passionate about open-source technologies, Abdullah has worked with Monty Mobile, SKELDUS, and A2Z Media - MENA, and holds certifications in Kubernetes, GitHub Actions, and Google Cloud Platform.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/abdullah-alaadine/",
