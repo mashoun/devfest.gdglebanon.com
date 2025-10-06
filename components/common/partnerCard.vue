@@ -28,9 +28,9 @@
       rounded="xl"
       class="pa-4"
       :style="{
-        border: '2px solid black',
-        backgroundColor: cardBackground,
-        '--v-theme-surface': cardBackground
+        border: '2px solid ' + (cardBackground === 'white' ? '#e0e0e0' : cardBackground),
+        backgroundColor: 'white',
+        '--v-theme-surface': 'white'
       }"
     >
       <v-container fluid>
@@ -87,8 +87,8 @@ const dialog = ref(false);
 // Computed properties
 const cardBackground = computed(() => {
   if (!props.data.category_id) return 'white';
-  return props.data.category_id === 'supporter' ? '#E8F5E9' : 
-         props.data.category_id === 'partner' ? '#E8EAF6' : 'white';
+  return props.data.category_id === 'supporter' ? '#2E8B57' : 
+         props.data.category_id === 'partner' ? '#3367D6' : 'white';
 });
 </script>
 

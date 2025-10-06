@@ -1,7 +1,7 @@
 <template>
-  <v-container fluid class="">
-    <v-row justify-center align="center">
-      <v-col md="6" sm="6" cols="12">
+  <v-container fluid class="px-0 mx-0" style="max-width: 100%; overflow-x: hidden;">
+    <v-row justify="center" align="center" class="mx-0">
+      <v-col md="6" sm="6" cols="12" class="px-4 px-sm-6">
         <h1 class="responsive-h1 my-4">
           DevFest <br />
           {{ mainData.communityLocation.city }} 2025
@@ -39,14 +39,19 @@
           target="_blank"
           style="border: 1.5px solid #1e1e1e; color: black"
           variant="flat"
-          >Registration on Oct 6th @6pm</v-btn
+          >Registration Now</v-btn
         >
       </v-col>
-      <v-col md="6" sm="6" cols="12">
+      <v-col md="6" sm="6" cols="12" class="px-0">
         <v-img
           alt="logo"
           src="assets/img/hero-image.png"
           lazy-src="assets/img/hero-image.png"
+          :width="mobile ? '100%' : 'auto'"
+          :height="mobile ? 'auto' : '100%'"
+          contain
+          class="mx-auto"
+          style="max-width: 100%;"
         ></v-img>
       </v-col>
     </v-row>
@@ -61,15 +66,30 @@ const { mainData } = useJSONData();
 </script>
 
 <style scoped>
+:deep(.v-container) {
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+  max-width: 100%;
+}
+
 .responsive-h1 {
   font-size: 250%;
   line-height: 100%;
+  word-break: break-word;
+  padding-right: 16px;
 }
 
 /* Media query for screens larger than 600px */
 @media (min-width: 600px) {
   .responsive-h1 {
     font-size: 300%;
+    padding-right: 0;
+  }
+  
+  :deep(.v-container) {
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
 </style>

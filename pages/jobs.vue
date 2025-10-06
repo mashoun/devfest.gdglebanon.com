@@ -6,13 +6,20 @@
         <v-card-title>
           <v-row align="center" no-gutters class="py-2">
             <v-col cols="auto">
-              <v-avatar class="mr-4" size="64">
+              <div 
+                class="mr-4 d-flex align-center justify-center" 
+                style="width: 64px; height: 64px; border-radius: 50%; background: white;"
+              >
                 <v-img
                   :src="`/img/sponsors/${selectedJob.logo}`"
                   :alt="selectedJob.company"
+                  :max-height="48"
+                  :max-width="48"
                   contain
+                  class="mx-auto"
+                  style="object-fit: contain;"
                 ></v-img>
-              </v-avatar>
+              </div>
             </v-col>
             <v-col>
               <h3 class="text-h6 text-sm-h5">{{ selectedJob.title }}</h3>
@@ -140,17 +147,21 @@
           >
             <v-row align="center" no-gutters>
               <v-col cols="auto">
-                <v-avatar 
-                  class="ma-3" 
-                  size="64"
+                <div 
+                  class="ma-3 d-flex align-center justify-center" 
+                  style="width: 64px; height: 64px; border-radius: 50%; background: white; cursor: pointer;"
                   @click.stop="showSponsorDetails(job)"
-                  style="cursor: pointer"
                 >
                   <v-img
                     :src="`/img/sponsors/${job.logo}`"
                     :alt="job.company"
+                    :max-height="48"
+                    :max-width="48"
+                    contain
+                    class="mx-auto"
+                    style="object-fit: contain;"
                   ></v-img>
-                </v-avatar>
+                </div>
               </v-col>
               <v-col>
                 <v-card-title class="pt-0 pb-1 px-0 text-wrap">
