@@ -1,138 +1,560 @@
 [
   {
-    "id": "101",
-    "name": "Vrijraj Singh",
+    "id": "1",
+    "name": "Mohammed Buallay",
     "company": {
-      "name": "agprop",
-      "designation": "CTO"
+      "name": "Tamkeen",
+      "designation": "Data Architect"
     },
-    "community_title": "Google Developer Expert for Firebase",
-    "image": "vrijraj.jpg",
-    "bio": "Vrijraj is a dedicated CTO at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
+    "community_title": "Google Developer Expert (GDE) in AI and Cloud Technology",
+    "image": "mohammed-buallay.jpg",
+    "bio": "Mohammed Buallay is a Google Developer Expert (GDE) in AI and cloud technology, passionate about empowering individuals and organizations with innovative solutions that create global impact. Leveraging his expertise in research, benchmarking, and statistical modeling, he helps entities maximize their potential in the digital age. Mohammed has a proven track record of building diverse projects and has trained over 10,000 professionals in AI across Arab countries, demonstrating his dedication to advancing cutting-edge solutions.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/mohammed-buallay-691b23152/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
-    "id": "102",
-    "name": "Full Name",
+    "id": "2",
+    "name": "A. Enes Turan",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "IBM",
+      "designation": "Cloud Architect"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Google Certified Professional Cloud Architect | Cloud Native Istanbul Organizer",
+    "image": "enes-turan.jpg",
+    "bio": "Enes is a Google Certified Professional Cloud Architect who specializes in cloud and platform engineering, Kubernetes, Google Cloud, Anthos, and Apigee consulting in the region with a Google Cloud Premier Partnership and Application Modernization Specialization. He has assisted multiple organizations in implementing DevOps practices and improving the reliability and scalability of their applications on Kubernetes. He also has experience in designing and implementing cloud infrastructure, and a deep understanding of best practices for cloud security, compliance, and governance. Enes has a strong passion for sharing his knowledge with others and helping them to be successful with DevOps, Kubernetes, and Cloud Architecture. He is organizer at Cloud Native Istanbul, instructor at Udemy and EC-Council.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://linkedin.com/in/devenes",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
-    "id": "103",
-    "name": "Full Name",
+    "id": "3",
+    "name": "Abdulrazzak Trabulsi",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "innoscripta se",
+      "designation": "DevOps Engineer"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "abdulrazzak-trabulsi.jpg",
+    "bio": "Abdulrazzak brings over six years of hands-on experience as a skilled DevOps engineer. His current work focuses on Terraform, GCP, AWS, Docker, Kubernetes (K8s), Bitbucket, Bitbucket Pipelines, and Cloudflare. His professional journey began at Medicus AI, where he started as a DevOps Engineer and quickly advanced to the role of DevOps Team Leader during a rewarding three-year tenure. He currently serves as a DevOps Engineer at Algooru and as a GCP Cloud Architect at Dataholic Cloud Services.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/abdulrazzak-trabulsi/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
-    "id": "104",
-    "name": "Full Name",
+    "id": "4",
+    "name": "Al Zoobi Ali",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "RTE - EDF",
+      "designation": "Operations Research Engineer"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "ali-alzoobi.jpg",
+    "bio": "A research engineer with experience in solving problems raised from operational research, combinatorial optimizations and graph theory using linear and constraint programming as well as designing and implementing efficient algorithms.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/alialzoobi/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
-    "id": "105",
-    "name": "Full Name",
+    "id": "5",
+    "name": "Ammar Mohanna",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "American University of Beirut",
+      "designation": "Lecturer"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "AI Consultant",
+    "image": "ammar.png",
+    "bio": "Dr. Ammar is a Lecturer and AI Consultant with extensive academic and industry experience across machine learning, MLOps, explainable AI, and edge AI. His work bridges research and real-world deployment — from training AI practitioners to advising startups and building robust ML pipelines. Through teaching, mentorship, and open-source contributions, he strives to make AI accessible, ethical, and impactful. He is particularly passionate about graph learning, prompt engineering, and bringing AI closer to real-time, resource-constrained environments.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/ammarmohanna/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
-    "id": "106",
-    "name": "Full Name",
+    "id": "6",
+    "name": "Andre Sara",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "DXC Technology",
+      "designation": "Chief Technologist"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Google Cloud Certified Fellow | Google Developer Expert in Google Cloud and AI",
+    "image": "andre-sara.jpg",
+    "bio": "Accomplished technology leader with 25+ years of success driving innovation and transformation in global organisations. Expertise in enterprise transformation with hybrid multi-cloud architecture (GCP, AWS, Azure), User-focused platform engineering and modernisation. Google Cloud Certified Fellow and Google Developer Expert in Google Cloud and AI, with extensive experience leading complex projects.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://linkedin.com/in/AndreSara",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
-    "id": "107",
-    "name": "Full Name",
+    "id": "7",
+    "name": "Bayan Al Ayoubi",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Transforat",
+      "designation": "Flutter Developer and Data Analyst"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "bayan-alayoubi.jpg",
+    "bio": "Flutter Developer and Data Analyst, powered by clean architecture and data-driven insights. With experience in AI, state management, and app design.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/bayan-alayoubi",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
-    "id": "108",
-    "name": "Full Name",
+    "id": "8",
+    "name": "Ghadi Al Ghosh",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "INTRA Logisoft Labs Ltd.",
+      "designation": "Lead .NET Developer"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Founder of the First .NET Community in Lebanon | Content Creator @ Dotnet Arabi",
+    "image": "ghadi-alghosh.jpg",
+    "bio": "Founder of the First .NET Community in Lebanon under the .NET Foundation | Content Creator @ Dotnet Arabi | Building Tech, Teams & Community",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/ghadialghosh/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "9",
+    "name": "Hassan Moussa",
+    "company": {
+      "name": "",
+      "designation": "Enterprise Solution Consultant"
+    },
+    "community_title": "GCP Certified Architect",
+    "image": "hassan-moussa.jpg",
+    "bio": "GCP Certified Architect with expertise in enterprise solution consulting.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/hassannmoussaa",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "10",
+    "name": "Issa Farhat",
+    "company": {
+      "name": "Intelligencia",
+      "designation": "Lead AI Engineer"
+    },
+    "community_title": "MSc Advanced AI and Generative Systems",
+    "image": "issa-farhat.jpg",
+    "bio": "Issa has been fascinated by science fiction and advanced technology from a young age, consistently following the latest scientific and technological breakthroughs. Today, he aims to leverage his skills in AI and Machine Learning, combined with his deep passion for the field, to make advanced technology accessible and beneficial to as many people as possible.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/issa-farhat/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "11",
+    "name": "Jaafar Nasrallah",
+    "company": {
+      "name": "Cardinal Health",
+      "designation": "Senior DevOps Engineer"
+    },
+    "community_title": "Google-Certified DevOps Engineer",
+    "image": "jaafar-nasrallah.jpg",
+    "bio": "Jaafar is a Google-certified DevOps engineer with over ten years of experience spanning systems administration, cloud infrastructure, CI/CD, and backend development. He is passionate about simplifying complex DevOps concepts and transforming them into practical, hands-on learning experiences that empower others to build, automate, and deploy with confidence.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jaafarnasrallah",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "12",
+    "name": "Jana Kibrit",
+    "company": {
+      "name": "AEMS.ai",
+      "designation": "AI Research Engineer"
+    },
+    "community_title": "",
+    "image": "jana-kibrit.jpg",
+    "bio": "Jana Kabrit is an AI Research Engineer, currently specializing in agentic systems and retrieval-augmented generation at AEMS.ai. She has held roles across academia and industry, including delivering over 100 hours of AI instruction at Zaka AI and contributing to academic course development at AUB. Her work bridges technical innovation and education, consistently focused on building intelligent systems and empowering others through knowledge sharing.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jana-kabrit/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "13",
+    "name": "Jean-Pierre Fakhry",
+    "company": {
+      "name": "ZAKA",
+      "designation": "Lead AI Engineer"
+    },
+    "community_title": "AWS Certified | Visiting Lecturer",
+    "image": "jeanpierre-fakhry.jpg",
+    "bio": "Jean-Pierre Fakhry is a skilled Computer Engineer and Lead AI Engineer, where he leads the development of innovative AI solutions, delivering impactful projects that solve complex challenges across industries while guiding and mentoring a growing team of engineers. Jean-Pierre is also a visiting lecturer, actively supporting AI education in the MENA region. Holding a Computer Engineering degree from USEK and multiple AWS certifications, he combines technical expertise with a passion for education. Jean-Pierre is committed to democratizing AI across the MENA region and beyond.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jean-pierre-fakhry/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "14",
+    "name": "Judy Abi Nehme",
+    "company": {
+      "name": "Upwork",
+      "designation": "Software Engineer"
+    },
+    "community_title": "Data Structures Teacher | Mock Interviewer at Manara",
+    "image": "judy-abinehme.jpg",
+    "bio": "Judy started his career as an electrical engineer in smart homes and electrical installations before shifting into software engineering. He is currently a software engineer at Upwork, a data structures and algorithms teacher, and a mock interviewer at Manara, which aims to bolster programming talent in the MENA region.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/judyabinehme/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "15",
+    "name": "Lara Wehbe",
+    "company": {
+      "name": "Fakker.ai",
+      "designation": "Senior AI Architect"
+    },
+    "community_title": "Founder at TheAIEngineers Training Program | CEO at Fakker.ai",
+    "image": "lara-wehbe.jpg",
+    "bio": "Lara is a Senior AI Architect at Microsoft Partners, specializing in helping companies avoid costly AI mistakes and empowering individuals to build AI-first careers that fill those exact industry needs. Through her training program, TheAIEngineers, she equips students with the skills and confidence to become job-ready AI engineers. Additionally, through her consultancy, Fakker.ai, Lara helps organizations optimize operations, reduce costs, and save time by leveraging the power of artificial intelligence.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/lara-wehbe",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "16",
+    "name": "Laura Jardine Paterson",
+    "company": {
+      "name": "CONCAT Tech",
+      "designation": "CEO / Founder"
+    },
+    "community_title": "Women In Tech | UNRWA Project Lead",
+    "image": "laura-paterson.jpg",
+    "bio": "Laura is passionate about creating a more inclusive tech sector, empowering marginalised women to find long-term, sustainable employment. She has spent the last 6 years building 2 bootstrapped businesses across the Middle East (mainly Lebanon) and Europe, having originally trained under WPP in London. Now Laura is working as the project lead at UNRWA, running digital livelihood projects focussing on training marginalised Palestinian youth. Since 2021 - CONCAT Tech, an award-winning design and development company, led by talented refugee and female developers. With 200+ international clients, from corporates to VC's, CONCAT has provided employment to more than 200 youth from across the Middle East. In 2024 - CONCAT Recruit, a new recruitment community placing marginalised developers (predominantly women and refugee developers) with remote, full-time companies.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/laura-jardine-paterson/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "17",
+    "name": "Leon Chlon",
+    "company": {
+      "name": "Hassana Labs",
+      "designation": "Founder"
+    },
+    "community_title": "AI Reliability Researcher | PhD in Machine Learning",
+    "image": "leon-chlon.jpg",
+    "bio": "Dr. Leon Chlon is a machine learning researcher and founder of Hassana Labs, focusing on making AI systems reliable and reproducible for enterprise deployment. He holds a PhD in Machine Learning from Cambridge University and completed postdoctoral research at Harvard and MIT. His industry experience includes building ML systems at Meta, Apple, TikTok, and consulting on AI strategy at McKinsey and the World Bank.",
+    "social": {
+      "linkedin": "https://LinkedIn.com/in/leochlon",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "6002",
+    "name": "Mahmoud Mashoun",
+    "company": {
+      "name": "GDG Coast Lebanon",
+      "designation": "Core Organizer & Developer"
+    },
+    "community_title": "",
+    "image": "Mahmoud.png",
+    "bio": "Mahmoud is experienced in building responsive and dynamic web applications using Vue.js and provides full-stack solutions that extend automation on Google Cloud through Google Apps Script and Firebase. He has a proven ability to integrate SEO best practices and leverage AI models such as ChatGPT and Gemini to enhance user experiences. Beyond his technical work, Mahmoud is an active Google Developer Groups (GDG) organizer, contributing to the global developer community supported by Google through collaboration and knowledge-sharing.",
+      "socials":{"linkedin": "https://www.linkedin.com/in/s-shivam/"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "18",
+    "name": "Maroun Ayli",
+    "company": {
+      "name": "Saint Joseph University of Beirut",
+      "designation": "PhD Student, Lecturer"
+    },
+    "community_title": "",
+    "image": "maroun-ayli.png",
+    "bio": "Maroun Ayli is a software engineer and PhD candidate at Saint Joseph University of Beirut, where his research focuses on improving UI testing automation to make it more accessible to non-technical users. Throughout his career, Maroun has worked on various aspects of software development, including optimizing deployment processes, enhancing inter-system communication, and developing efficient APIs. A notable experience includes his tenure at BMW in Munich, where he contributed to enhancing developer tools and optimizing build processes for specialized hardware. In addition to research, Maroun teaches programming languages and advanced software engineering concepts at the university level, helping to shape the next generation of engineers. His technical expertise spans the latest C++ standards, functional programming in Haskell, and designing robust CI/CD pipelines, with a particular interest in applying these skills to improve large-scale software systems.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/marounayli",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "19",
+    "name": "Mhamad El Itawi",
+    "company": {
+      "name": "Eddress",
+      "designation": "Tech Lead and Senior Software Engineer"
+    },
+    "community_title": "AWS Certified | Kubernetes Certified | Scrum Master",
+    "image": "mhamad-elitawi.jpg",
+    "bio": "Senior Software engineer with 8 years experience. MBA graduate with x3 AWS certifications, x2 Kubernetes certifications, and Scrum Master certification.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mhamadelitawi",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "20",
+    "name": "Mike Majdalani",
+    "company": {
+      "name": "Devrabic / Algorand Foundation",
+      "designation": "Senior Full Stack Developer"
+    },
+    "community_title": "Tech Content Creator",
+    "image": "mike-majdalani.jpg",
+    "bio": "Mike is a senior full stack developer who started his journey at a young age as a content creator and is now on a journey to share his knowledge with others.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mikemajdalani/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "21",
+    "name": "Mohamad Darsa",
+    "company": {
+      "name": "Macrovision",
+      "designation": "Murex Software Engineer"
+    },
+    "community_title": "ACPC Finalist",
+    "image": "darsa.png",
+    "bio": "Ex Backend Engineer at FOO, Ex Software Engineer at Murex, Data Engineer at Proximie, and ACPC finalist.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mohammad-darsa/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "22",
+    "name": "Mohammad Makkeh",
+    "company": {
+      "name": "Anghami",
+      "designation": "Frontend Engineer & Designer"
+    },
+    "community_title": "",
+    "image": "mohammad-makkeh.jpg",
+    "bio": "Mohammad is a frontend developer specializing in React and Next.js, with additional expertise in UI/UX design and web game development. He holds a BS in Computer Science from the Lebanese University. Mohammad is passionate about reshaping perceptions of frontend development, highlighting its importance, complexity, and pivotal role in modern software projects.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mohammad-makkeh-456448239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "23",
+    "name": "Mohyddine Al-lahham",
+    "company": {
+      "name": "Code with mehyo",
+      "designation": "Android Developer"
+    },
+    "community_title": "",
+    "image": "mohyddine-lahham.jpg",
+    "bio": "Experienced native Android developer with over 5 years of experience.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mohyddine-lahham",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "24",
+    "name": "Nadine Abbas",
+    "company": {
+      "name": "Lebanese American University",
+      "designation": "Assistant Professor"
+    },
+    "community_title": "IEEE Senior Member | Google Women Techmakers Ambassador | Director of Software Institute at LAU",
+    "image": "NadineAbbas.png",
+    "bio": "Dr. Nadine Abbas is an Assistant Professor of Computer Science at the Lebanese American University (LAU). She is an IEEE Senior Member and actively contributes to IEEE through multiple leadership roles. She serves as a member of the IEEE Region 8 Membership Development Committee, the Membership Development Officer of the IEEE Lebanon Section, the Chair of IEEE Women in Engineering Lebanon, and the Activity Coordinator of the IEEE Communications Society Lebanon. She is currently the Director of the Software Institute at LAU, a Google Women Techmakers Ambassador, and the Technical Advisor of UPaint. She earned a BE degree in Computer and Communication Engineering from Notre Dame University (NDU) in 2008. She received her M.E. and Ph.D. degrees in Electrical and Computer Engineering from the American University of Beirut (AUB) in 2011 and 2017, respectively. Her research focuses on mobile edge computing and wireless communications, developing innovative solutions for next-generation heterogeneous networks, including 5G/6G mobile systems, the Internet of Things, and UAV-aided communications.",
+    "social": {
+      "linkedin": "https://lb.linkedin.com/in/nadine-abbas",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "25",
+    "name": "Nejmeddine Ben Ouarred",
+    "company": {
+      "name": "Google",
+      "designation": "Customer Success Manager"
+    },
+    "community_title": "Google Authorized Trainer | Cloud Architect",
+    "image": "nejmeddine-benouarred.jpg",
+    "bio": "Nejmeddine BEN OUARRED is a Google Authorized Trainer and holds multiple active Google Cloud certifications. As a Cloud Architect, he specializes in Google Cloud, with a particular focus on GKE and Apigee, supporting companies across France and Europe in designing effective cloud migration strategies. A key part of Nejmeddine's work involves leading Apigee implementations, helping organizations adopt an API-First mindset. He also serves as a lead trainer for Apigee and Apigee Hybrid, delivering courses on Google infrastructure and development. A passionate advocate for Apigee, he frequently speaks at both local and international events. Outside of his professional endeavors, Nejmeddine enjoys practicing Judo and spending time with his family. He is fluent in French, English, and Arabic.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nejmeddine-ben-ouarred/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "26",
+    "name": "Omar Chouman",
+    "company": {
+      "name": "JUSTECH",
+      "designation": "Senior Software Engineer"
+    },
+    "community_title": "AWS Certified",
+    "image": "omar-chouman.png",
+    "bio": "Omar is a self-taught, dynamic, highly motivated individual with a passion for learning and solving problems. He works in teams and individually, driving quality and consistency throughout all phases of software development projects. Omar has worked on a diverse range of projects, from building scalable microservices to integrating AI and machine learning models into production environments. His expertise spans various cloud platforms, with a particular focus on AWS, where he has implemented numerous serverless applications that are both cost-effective and highly scalable. When he's not coding or speaking at events, Omar enjoys exploring the latest advancements in tech, mentoring aspiring developers, and contributing to open-source projects.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/omarchouman/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "27",
+    "name": "Peter Estephan",
+    "company": {
+      "name": "Murex",
+      "designation": "Software Engineer"
+    },
+    "community_title": "",
+    "image": "peter-estephan.png",
+    "bio": "A passionate developer with 4 years of experience in the tech industry.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/estephanpeter",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "28",
+    "name": "Randy El Haddad",
+    "company": {
+      "name": "",
+      "designation": "Incoming Research Engineer"
+    },
+    "community_title": "Research Engineer @ Cohere | AI Analyst @ Apple | Founding Engineer @ Avina (YC S22)",
+    "image": "randy-elhaddad.png",
+    "bio": "Incoming Research Engineer at Cohere, AI Analyst at Apple, and Founding Engineer at Avina (YC S22).",
+    "social": {
+      "linkedin": "https://linkedin.com/in/randyelh",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "29",
+    "name": "Sam Shouman",
+    "company": {
+      "name": "FOO",
+      "designation": "Senior Android Developer"
+    },
+    "community_title": "Content Creator - samDroid | Co-founder of Develeb",
+    "image": "sam-shouman.png",
+    "bio": "Senior Android Developer and content creator known as samDroid. Co-founder of Develeb, the tech community of Lebanon.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/samshouman",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "30",
+    "name": "Samer Bechara",
+    "company": {
+      "name": "Visibot",
+      "designation": "Founder"
+    },
+    "community_title": "Failed 3 Businesses & Counting",
+    "image": "samer-bechara.jpg",
+    "bio": "Founder of Visibot",
+    "social": {
+      "linkedin": "https://linkedin.com/in/samerbechara",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "31",
+    "name": "Sami Shames el deen",
+    "company": {
+      "name": "Software Engineering Excellence",
+      "designation": "Founder"
+    },
+    "community_title": "Senior Software Engineer @ Murex | Content Creator",
+    "image": "sami-shames.jpg",
+    "bio": "Sami is a senior software engineer at murex, educator, and content creator with a passion for building high-quality software and mentoring the next generation of developers. As the founder of the Software Engineering Excellence (SE²), he empowers developers to master clean architecture, SOLID principles, and real-world project implementation. Beyond teaching, he shares his insights with over 50,000 followers online, creating technical content that bridges the gap between theory and practice.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/samish-dev",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "32",
+    "name": "Sarah Rashidi",
+    "company": {
+      "name": "Rafic Harirri University",
+      "designation": "University Instructor"
+    },
+    "community_title": "AI Architect & Researcher | GDG Organizer | Founder of Code with Serah",
+    "image": "sarah-rashidi.jpeg",
+    "bio": "Sarah is a University Instructor at Rafik Hariri University (RHU), where she teaches computer science and helps students bridge theory with practical applications. She is also an AI Researcher, Engineer, and Architect with over three years of experience building scalable AI systems, with a focus on MLOps, generative AI, and applied machine learning. Holding dual master's degrees in Computer Science and Data Intelligence, she works at the intersection of research and engineering to design solutions that connect innovation with real-world impact. Beyond her professional work, Sarah is an active community leader. She joined Google Developer Groups (GDG) as an organizer earlier this year and is the founder of Code with Serah, a STEAM community at the crossroads of technology and creativity.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/serahrashidi/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   }
 ]
