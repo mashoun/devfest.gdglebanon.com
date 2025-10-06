@@ -75,7 +75,7 @@
       "designation": "Lecturer"
     },
     "community_title": "AI Consultant",
-    "image": "ammar.png",
+    "image": "Ammar.png",
     "bio": "Dr. Ammar is a Lecturer and AI Consultant with extensive academic and industry experience across machine learning, MLOps, explainable AI, and edge AI. His work bridges research and real-world deployment — from training AI practitioners to advising startups and building robust ML pipelines. Through teaching, mentorship, and open-source contributions, he strives to make AI accessible, ethical, and impactful. He is particularly passionate about graph learning, prompt engineering, and bringing AI closer to real-time, resource-constrained environments.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/ammarmohanna/",
@@ -292,13 +292,13 @@
     "id": "6002",
     "name": "Mahmoud Mashoun",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "Core Organizer & Developer"
+      "name": "Freelaner",
+      "designation": "Full Stack Developer"
     },
-    "community_title": "",
+    "community_title": "GDG Core Team Organizer",
     "image": "Mahmoud.png",
     "bio": "Mahmoud is experienced in building responsive and dynamic web applications using Vue.js and provides full-stack solutions that extend automation on Google Cloud through Google Apps Script and Firebase. He has a proven ability to integrate SEO best practices and leverage AI models such as ChatGPT and Gemini to enhance user experiences. Beyond his technical work, Mahmoud is an active Google Developer Groups (GDG) organizer, contributing to the global developer community supported by Google through collaboration and knowledge-sharing.",
-      "socials":{"linkedin": "https://www.linkedin.com/in/s-shivam/"
+      "socials":{"linkedin": "https://www.linkedin.com/in/mashoun/"
     },
     "type": "Core"
   },
@@ -361,7 +361,7 @@
       "designation": "Murex Software Engineer"
     },
     "community_title": "ACPC Finalist",
-    "image": "darsa.png",
+    "image": "Darsa.png",
     "bio": "Ex Backend Engineer at FOO, Ex Software Engineer at Murex, Data Engineer at Proximie, and ACPC finalist.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/mohammad-darsa/",
