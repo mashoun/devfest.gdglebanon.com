@@ -1,22 +1,131 @@
 [
-  {
-      "category_name": "Powered By",
+    {
+        "category_name":"Sponsored By",
+        "category_id":"sponsor",
+        "sponsors": [
+            {
+                "company_id": "1",
+                "name": "Semicolon",
+                "company": {
+                    "name": "Semicolon",
+                    "designation": ""
+                },
+                "community_title": "",
+                "image": "semicolonlb.jpeg",
+                "logo": "semicolonlb.jpeg",
+                "level": "gold",
+                "bio": "Test",
+                "description": "Test",
+                "social": {
+                    "linkedin": "",
+                    "web": "https://semsec.org"
+                },
+                "type": "sponsor"
+
+            },
+            {
+                "company_id": "2",
+                "name": "Murex",
+                "company": {
+                    "name": "Murex",
+                    "designation": ""
+                },
+                "community_title": "",
+                "image": "Murex.png",
+                "logo": "Murex.png",
+                "level": "silver",
+                "bio": "Test",
+                "description": "Test",
+                "social": {
+                    "linkedin": "",
+                    "web": "https://murex.com"
+                },
+                "type": "sponsor"
+            },
+            { 
+                "company_id": "3",
+                "name": "Supportful",
+                "company": {
+                    "name": "Supportful",
+                    "designation": ""
+                },
+                "community_title": "",
+                "image": "supportful.png",
+                "logo": "supportful.png",
+                "level": "bronze",
+                "bio": "Test",
+                "description": "Test",
+                "social": {
+                    "linkedin": "",
+                    "web": "https://supportful.com"
+                },
+                "type": "sponsor"
+            }
+        ]
+    },
+    {
+      "category_name": "Main Supporters",
+      "category_id":"supporter",
       "sponsors": [
+        {
+            "company_id": "4",
+            "name": "Lebanese American University",
+            "company": {
+                "name": "Lebanese American University",
+                "designation": ""
+            },
+            "community_title": "",
+            "image": "lau.jpg",
+            "logo": "lau.jpg",
+            "level": "host",
+            "bio": "Test",
+            "description": "Test",
+            "social": {
+                "linkedin": "",
+                "web": "https://www.lau.edu.lb/"
+            },
+            "type": "supporter"
+        },
           {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
+            "company_id": "5",
+            "name": "Google For Developers",
+            "company": {
+                "name": "Google",
+                "designation": "For Developers"
+            },
+            "community_title": "",
+            "image": "googlefordevelopers.png",
+            "logo": "googlefordevelopers.png",
+            "level": "main supporter",
+            "bio": "Google's developer platform that helps you build, grow, and scale with Google's technologies.",
+            "social": {
+                "linkedin": "https://www.linkedin.com/company/googlefordevelopers/",
+                "web": "https://developers.google.com"
+            },
+            "type": "supporter"
           }
       ]
   },
   {
-      "category_name": "Hosted By",
+      "category_name": "Partners",
+      "category_id":"partner",
       "sponsors": [
           {
-              "name":"Lebanese American University",
+            "company_id":"5",
+              "name":"DX Talks",
               "link": "https://www.lau.edu.lb/",
-              "logo": "lau.jpg"   
-          }
+              "logo": "DxTalks.svg"   ,
+              "level": "Media Partner",
+                "description":"Test"
+          },
+          {
+            "company_id":"6",
+            "name":"DX Talks",
+            "link": "https://www.lau.edu.lb/",
+            "logo": "googlefordevelopers.png"  ,
+            "level": "Partner",
+                "description":"Test"
+        }
       ]
   }
 ]

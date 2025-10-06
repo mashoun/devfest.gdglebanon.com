@@ -27,7 +27,11 @@
       max-width="800"
       rounded="xl"
       class="pa-4"
-      style="border: 2px solid black"
+      :style="{
+        border: '2px solid ' + (cardBackground === 'white' ? '#e0e0e0' : cardBackground),
+        backgroundColor: 'white',
+        '--v-theme-surface': 'white'
+      }"
     >
       <v-container fluid>
         <v-row>
@@ -67,6 +71,8 @@
 </template>
 
 <script setup>
+import { ref, computed } from 'vue';
+
 // Props
 const props = defineProps({
   data: {
@@ -77,6 +83,13 @@ const props = defineProps({
 
 // Reactive variables
 const dialog = ref(false);
+
+// Computed properties
+const cardBackground = computed(() => {
+  if (!props.data.category_id) return 'white';
+  return props.data.category_id === 'supporter' ? '#2E8B57' : 
+         props.data.category_id === 'partner' ? '#3367D6' : 'white';
+});
 </script>
 
 <style scoped>
