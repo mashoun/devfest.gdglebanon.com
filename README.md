@@ -1,4 +1,5 @@
-# DevFest 2024
+# DevFest 
+
 Standard Web App for DevFest's Events. <br>
 Show some ❤️ and star the repo to support the project
 
