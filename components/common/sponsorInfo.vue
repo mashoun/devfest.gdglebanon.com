@@ -8,7 +8,7 @@
         </v-col>
       </v-row>
       
-      <v-row class="mt-0 mx-0" style="width: 100%;">
+      <v-row class="mt-0 mx-0 sponsor-grid" style="width: 100%;">
         <v-col
           v-for="(sponsor, indexp) in item.sponsors"
           :key="indexp"
@@ -270,7 +270,7 @@ h2.text-h5 {
 
 /* Responsive adjustments */
 @media (max-width: 960px) {
-  .v-col {
+  .sponsor-grid .v-col {
     flex: 0 0 50%;
     max-width: 50%;
     padding-left: 8px;

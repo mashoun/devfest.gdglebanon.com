@@ -57,7 +57,7 @@
                 "description": "A software engineering consulting firm that helps global tech startups scale by providing remote engineers (frontend, backend, mobile, DevOps, QA) from Lebanon.",
                 "social": {
                     "linkedin": "",
-                    "web": "https://lebanese.tech"
+                    "web": "supportful.world"
                 },
                 "type": "sponsor"
             }
@@ -118,15 +118,7 @@
               "logo": "DxTalks.svg"   ,
               "level": "Media Partner",
                 "description":"Test"
-          },
-          {
-            "company_id":"6",
-            "name":"DX Talks",
-            "link": "https://www.lau.edu.lb/",
-            "logo": "googlefordevelopers.png"  ,
-            "level": "Partner",
-                "description":"Test"
-        }
+          }
       ]
   }
 ]
