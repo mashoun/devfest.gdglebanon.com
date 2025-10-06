@@ -1,22 +1,60 @@
 [
-  {
-      "category_name": "Powered By",
+    {
+        "category_name":"Sponsored By",
+        "sponsors": [
+            {
+                "name":"Semicolon",
+                "link": "https://semsec.org",
+                "logo": "semicolonlb.jpeg"   ,
+                "level": "gold"
+
+            },
+            {
+                "name":"Murex",
+                "link": "https://murex.com",
+                "logo": "Murex.png"  ,
+                "level": "silver"
+            },
+            { 
+              "name":"Supportful",
+              "link": "https://supportful.com",
+              "logo": "supportful.png",
+              "level": "bronze"
+            }
+        ]
+    },
+    {
+      "category_name": "Main Supporters",
       "sponsors": [
+        {
+            "name":"Lebanese American University",
+            "link": "https://www.lau.edu.lb/",
+            "logo": "lau.jpg"   ,
+            "level": "host"
+        },
           {
               "name":"Google For Developers",
               "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
+              "logo": "googlefordevelopers.png"  ,
+              "level": "main supporter"
           }
       ]
   },
   {
-      "category_name": "Hosted By",
+      "category_name": "Partners",
       "sponsors": [
           {
-              "name":"Lebanese American University",
+              "name":"DX Talks",
               "link": "https://www.lau.edu.lb/",
-              "logo": "lau.jpg"   
-          }
+              "logo": "DxTalks.svg"   ,
+              "level": "Media Partner"
+          },
+          {
+            "name":"DX Talks",
+            "link": "https://www.lau.edu.lb/",
+            "logo": "googlefordevelopers.png"  ,
+            "level": "Partner"
+        }
       ]
   }
 ]
