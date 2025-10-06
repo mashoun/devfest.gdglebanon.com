@@ -1,7 +1,7 @@
 <template>
   <v-container fluid class="pa-0 ma-0">
     <v-row
-      v-for="(item, index) in sponsorsData"
+      v-for="(item, index) in sponsorsData || []"
       :key="index"
       class="google-font mb-8 mt-0"
     >
@@ -21,15 +21,14 @@
           :class="['sponsor-card', `category-${item.category_id}`]"
           :style="{ '--level-color': getLevelColor(sponsor.level, item.category_id) }"
           elevation="2"
-          :href="sponsor.link"
-          target="_blank"
-          rel="noopener"
+          @click="() => openDialog({ ...sponsor, type: item.category_id })"
           height="100%"
+          style="cursor: pointer;"
         >
           <v-card-text class="text-center pa-4">
             <div class="logo-container">
               <v-img
-                :src="'/img/sponsors/' + sponsor.logo"
+                :src="'/img/sponsors/' + (sponsor.logo || sponsor.image)"
                 :alt="sponsor.name + ' logo'"
                 contain
                 max-height="80"
@@ -55,11 +54,29 @@
         </v-card>
       </v-col>
     </v-row>
+    
+    <sponsor-dialog
+      v-model="dialog"
+      :sponsor="selectedSponsor"
+    />
   </v-container>
 </template>
 
 <script setup>
+import { ref } from 'vue';
+import { useJSONData } from '~/composables/useJSONData';
+import SponsorDialog from './SponsorDialog.vue';
+
 const { sponsorsData } = useJSONData();
+
+const selectedSponsor = ref(null);
+const dialog = ref(false);
+
+const openDialog = (sponsor) => {
+  selectedSponsor.value = { ...sponsor };
+  dialog.value = true;
+};
+
 
 const levelColors = {
   'gold': '#FFC000',
@@ -72,11 +89,8 @@ const levelColors = {
 };
 
 const getLevelColor = (level, categoryId) => {
-  // Return category-based colors first
-  if (categoryId === 'supporter') return '#2E8B57'; // Green for supporters
-  if (categoryId === 'partner') return '#3367D6';   // Blue for partners
-  
-  // Fall back to level-based colors for other categories
+  if (categoryId === 'supporter') return '#2E8B57';
+  if (categoryId === 'partner') return '#3367D6';
   if (!level) return 'primary';
   const lowerLevel = level.toLowerCase();
   return levelColors[lowerLevel] || 'primary';
@@ -84,7 +98,6 @@ const getLevelColor = (level, categoryId) => {
 
 const formatLevel = (level) => {
   if (!level) return '';
-  // Convert to title case
   return level.toLowerCase()
     .split(' ')
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
@@ -94,7 +107,6 @@ const formatLevel = (level) => {
 const getTextColorClass = (level) => {
   if (!level) return 'text-white';
   const lowerLevel = level.toLowerCase();
-  // Return dark text for light backgrounds and vice versa
   return ['gold', 'silver', 'bronze'].includes(lowerLevel) 
     ? 'text-dark' 
     : 'text-white';

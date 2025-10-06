@@ -1,42 +1,34 @@
 [
   {
     "title": "Senior Frontend Developer",
-    "company": "Google",
-    "logo": "Barista.png",
     "location": "Beirut, Lebanon",
     "type": "Full-time",
-    "description": "We are looking for an experienced Frontend Developer to join our team. You will be responsible for building the ‘client-side’ of our web applications. You should be able to translate our company and customer needs into functional and appealing interactive applications.",
+    "description": "We are looking for an experienced Frontend Developer to join our team. You will be responsible for building the 'client-side' of our web applications. You should be able to translate our company and customer needs into functional and appealing interactive applications.",
     "apply_link": "#",
-    "company_type": "partner"
+    "company_id": "5"
   },
   {
     "title": "Software Engineer, Machine Learning",
-    "company": "Microsoft",
-    "logo": "microsoft.png",
     "location": "Remote",
     "type": "Full-time",
     "description": "Join our innovative team of engineers to develop and implement machine learning models. You will work on cutting-edge AI projects that will shape the future of technology.",
     "apply_link": "#",
-    "company_type": "partner"
+    "company_id": "6"
   },
   {
-    "title": "Software Engineer, Machine Learning",
-    "company": "Microsoft",
-    "logo": "microsoft.png",
+    "title": "Data Scientist",
     "location": "Remote",
     "type": "Full-time",
-    "description": "Join our innovative team of engineers to develop and implement machine learning models. You will work on cutting-edge AI projects that will shape the future of technology.",
+    "description": "We are seeking a skilled Data Scientist to analyze complex data and generate insights that will help drive business decisions.",
     "apply_link": "#",
-    "company_type": "partner"
+    "company_id": "5"
   },
   {
-    "title": "Software Engineer, Machine Learning",
-    "company": "Microsoft",
-    "logo": "microsoft.png",
-    "location": "Remote",
+    "title": "DevOps Engineer",
+    "location": "Beirut, Lebanon",
     "type": "Full-time",
-    "description": "Join our innovative team of engineers to develop and implement machine learning models. You will work on cutting-edge AI projects that will shape the future of technology.",
+    "description": "Join our team to build and maintain our cloud infrastructure and CI/CD pipelines, ensuring high availability and performance.",
     "apply_link": "#",
-    "company_type": "partner"
+    "company_id": "3"
   }
 ]
