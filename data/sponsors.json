@@ -60,6 +60,25 @@
                     "web": "supportful.world"
                 },
                 "type": "sponsor"
+            },
+            {
+                "company_id": "6",
+                "name": "KDD",
+                "company": {
+                    "name": "Kuwait Danish Dairy Company",
+                    "designation": ""
+                },
+                "community_title": "",
+                "image": "kdd.png",
+                "logo": "kdd.png",
+                "level": "bronze",
+                "bio": "KDD was founded in 1962 as a dairy company with a vision to achieve nutritional goals through packaged dairy food for the local market. Operating from its first plant in the Shuwaikh area in Kuwait, KDD began producing milk and yoghurt. Over the years, KDD grew and diversified its portfolio. Today, it has a multi-product, multi-category portfolio that caters to a wide variety of consumers in the region.",
+                "description": "KDD was founded in 1962 as a dairy company with a vision to achieve nutritional goals through packaged dairy food for the local market. Operating from its first plant in the Shuwaikh area in Kuwait, KDD began producing milk and yoghurt. Over the years, KDD grew and diversified its portfolio. Today, it has a multi-product, multi-category portfolio that caters to a wide variety of consumers in the region.",
+                "social": {
+                    "linkedin": "",
+                    "web": "https://www.kddc.com/"
+                },
+                "type": "sponsor"
             }
         ]
     },
