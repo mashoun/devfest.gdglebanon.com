@@ -39,7 +39,7 @@
           target="_blank"
           style="border: 1.5px solid #1e1e1e; color: black"
           variant="flat"
-          >Registration Now</v-btn
+          >Register Now</v-btn
         >
       </v-col>
       <v-col md="6" sm="6" cols="12" class="px-0">

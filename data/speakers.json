@@ -85,6 +85,23 @@
     }
   },
   {
+    "id": "3",
+    "name": "Elie Hannouch",
+    "company": {
+      "name": "Netways",
+      "designation": "Technical Product Manager"
+    },
+    "community_title": "MongoDB Champion | Tech Author | Community Leader",
+    "image": "elie-hannouch.jpg",
+    "bio": "A visionary product and architecture leader who crafts and launches transformative digital ecosystems that empower organizations to scale, adapt, and thrive. With expertise in strategic foresight and hands-on execution, Elie guides cross-functional teams from concept to market impact, reshaping challenges into clear roadmaps and modular platforms. As a MongoDB Champion and active Community Leader, he advocates for open knowledge and sustainable tech practices, mentoring engineers and speaking at global events to foster a culture of continuous learning and innovation in modern architecture and data-driven platforms.",
+    "social": {
+      "linkedin": "https://lb.linkedin.com/in/elie-hannouch",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
     "id": "6",
     "name": "Andre Sara",
     "company": {
