@@ -62,6 +62,25 @@
                 "type": "sponsor"
             },
             {
+                "company_id": "7",
+                "name": "Monty Holding",
+                "company": {
+                    "name": "Monty Holding",
+                    "designation": ""
+                },
+                "community_title": "",
+                "image": "monty.png",
+                "logo": "monty.png",
+                "level": "bronze",
+                "bio": "Founded in 1998 by visionary entrepreneur Mountasser Hachem, Monty Holding has rapidly evolved into a global powerhouse, reshaping industries and exceeding expectations. From our UK headquarters, we're not just delivering solutions but we're architecting the future for our clients and partners.",
+                "description": "Founded in 1998 by visionary entrepreneur Mountasser Hachem, Monty Holding has rapidly evolved into a global powerhouse, reshaping industries and exceeding expectations. From our UK headquarters, we're not just delivering solutions but we're architecting the future for our clients and partners.",
+                "social": {
+                    "linkedin": "",
+                    "web": "https://montyholding.com"
+                },
+                "type": "sponsor"
+            },
+            {
                 "company_id": "6",
                 "name": "KDD",
                 "company": {
@@ -88,17 +107,17 @@
       "sponsors": [
         {
             "company_id": "4",
-            "name": "Lebanese American University",
+            "name": "LAU, Software Institue",
             "company": {
-                "name": "Lebanese American University",
+                "name": "Lebanese American University - Software Institue",
                 "designation": ""
             },
             "community_title": "",
-            "image": "lau.jpg",
-            "logo": "lau.jpg",
+            "image": "lau.png",
+            "logo": "lau.png",
             "level": "host",
-            "bio": "Test",
-            "description": "Test",
+            "bio": "The Software Institute at LAU, part of the School of Arts and Sciences, serves as a hub for innovation, education, and technological advancement, where passion and expertise come together for developers and tech enthusiasts to learn, collaborate, and thrive.",
+            "description": "The Software Institute at LAU, part of the School of Arts and Sciences, serves as a hub for innovation, education, and technological advancement, where passion and expertise come together for developers and tech enthusiasts to learn, collaborate, and thrive.",
             "social": {
                 "linkedin": "",
                 "web": "https://www.lau.edu.lb/"
