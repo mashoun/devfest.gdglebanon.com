@@ -42,6 +42,25 @@
                 },
                 "type": "sponsor"
             },
+            {
+                "company_id": "8",
+                "name": "Speedlane",
+                "company": {
+                    "name": "Speedlane",
+                    "designation": "Product Development Shop"
+                },
+                "community_title": "",
+                "image": "speedlane.png",
+                "logo": "speedlane.png",
+                "level": "silver",
+                "bio": "We are a top-shelf product development shop specializing in implementation excellence. Our mission is to deliver premium digital services that help forward-thinking clients change the world. We believe technology should boost human potential. We build solutions that work beautifully today and scale seamlessly as clients grow.",
+                "description": "We are a top-shelf product development shop specializing in implementation excellence. Our mission is to deliver premium digital services that help forward-thinking clients change the world. We believe technology should boost human potential. We build solutions that work beautifully today and scale seamlessly as clients grow.",
+                "social": {
+                    "linkedin": "https://www.linkedin.com/company/speedlane",
+                    "web": "https://speedlane.co/"
+                },
+                "type": "sponsor"
+            },
             { 
                 "company_id": "3",
                 "name": "Supportful",
@@ -80,6 +99,7 @@
                 },
                 "type": "sponsor"
             },
+            
             {
                 "company_id": "6",
                 "name": "KDD",

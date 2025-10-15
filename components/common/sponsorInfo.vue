@@ -32,7 +32,7 @@
                 :alt="sponsor.name + ' logo'"
                 contain
                 max-height="80"
-                max-width="100%"
+                max-width="60%"
                 class="mx-auto"
                 style="object-fit: contain; width: auto; height: auto;"
               />
@@ -211,7 +211,7 @@ const getTextColorClass = (level) => {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 8px;
+  padding: 12px 16px;
   margin-bottom: 8px;
   width: 100%;
 }
@@ -219,7 +219,7 @@ const getTextColorClass = (level) => {
 .v-img {
   max-height: 80px;
   width: auto;
-  max-width: 100%;
+  max-width: 60%;
   object-fit: contain;
   margin: 0 auto;
 }
