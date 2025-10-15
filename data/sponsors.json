@@ -171,11 +171,196 @@
       "sponsors": [
           {
             "company_id":"5",
-              "name":"DX Talks",
-              "link": "https://www.lau.edu.lb/",
-              "logo": "DxTalks.svg"   ,
-              "level": "Media Partner",
-                "description":"Test"
+            "name":"DX Talks",
+            "link": "https://www.lau.edu.lb/",
+            "logo": "DxTalks.svg",
+            "level": "Media Partner",
+            "description":"DX Talks"
+          },
+          {
+            "company_id":"19",
+            "name":"Network with Jean",
+            "link": "",
+            "logo": "networkwithjean.png",
+            "level": "Media Partner",
+            "bio": "Jean Kalfayan is an event consultant and marketer best known for Networkwithjean, a fast-growing platform dedicated to business and networking events in Lebanon and beyond. With a portfolio spanning 20+ clients and hundreds of thousands of online views, Jean's work bridges people, ideas, and opportunities through impactful events and storytelling.",
+            "description":"Jean Kalfayan is an event consultant and marketer best known for Networkwithjean, a fast-growing platform dedicated to business and networking events in Lebanon and beyond. With a portfolio spanning 20+ clients and hundreds of thousands of online views, Jean's work bridges people, ideas, and opportunities through impactful events and storytelling.",
+            "social": {
+              "linkedin": "",
+              "web": ""
+            },
+            "type": "partner"
+          },
+          {
+            "company_id":"18",
+            "name":"Sky Media",
+            "company": {
+              "name": "Sky Media",
+              "designation": "Media Partner"
+            },
+            "link": "https://skymedialb.com/",
+            "logo": "Sky-Media-Logo.png",
+            "level": "Media Partner",
+            "bio": "Sky Media - via Tabbara",
+            "description":"Sky Media - via Tabbara",
+            "social": {
+              "linkedin": "",
+              "web": "https://skymedialb.com/",
+              "instagram": "https://www.instagram.com/skymedia_lb/"
+            },
+            "type": "partner"
+          },
+          {
+            "company_id":"11",
+            "name":"Eurisko",
+            "company": {
+              "name": "Eurisko",
+              "designation": "Software Development & Consultancy"
+            },
+            "link": "https://eurisko.net/",
+            "logo": "eurisko-logo.png",
+            "level": "Partner",
+            "bio": "Eurisko is a multi-national software development and consultancy firm based in UAE, Saudi Arabia, Lebanon, Cyprus and US. With more than 15 years of experience and hundreds of success stories, Eurisko offers services ranging from Mobile App Development, Enterprise Web Development and Artificial Intelligence, to Game Development, Mixed Reality, UI/UX Design and Smart Cities / IoT.",
+            "description":"Eurisko is a multi-national software development and consultancy firm based in UAE, Saudi Arabia, Lebanon, Cyprus and US. With more than 15 years of experience and hundreds of success stories, Eurisko offers services ranging from Mobile App Development, Enterprise Web Development and Artificial Intelligence, to Game Development, Mixed Reality, UI/UX Design and Smart Cities / IoT. To position our company as the pioneer of digital innovation in the region by creating excellence in our people and forging the digital future of our clients and partners. Our mission is to empower digital transformation by delivering cutting-edge solutions and world-class digital services to our clients & partners. Our goal is to reshape their success, providing them with a distinctive competitive advantage, unlocking limitless possibilities, and driving meaningful impact in their industry landscapes.",
+            "social": {
+              "linkedin": "https://www.linkedin.com/company/eurisko/",
+              "web": "https://eurisko.net/"
+            },
+            "type": "partner"
+          },
+          {
+            "company_id":"12",
+            "name":"Uplyft",
+            "link": "",
+            "logo": "Uplyft.png",
+            "level": "Partner",
+            "description":"Uplyft"
+          },
+          {
+            "company_id":"13",
+            "name":"Lyxa",
+            "company": {
+              "name": "Lyxa",
+              "designation": "Q-Commerce & E-Commerce Solutions"
+            },
+            "link": "https://lyxa.ai/",
+            "logo": "lyxa.png",
+            "level": "Partner",
+            "bio": "LYXA is an innovative startup focused on creating cutting-edge q-commerce and e-commerce solutions through our proprietary mobile app, LYXA. Our dedicated team combines business acumen with a passion for technology to deliver a seamless shopping experience.",
+            "description":"LYXA is an innovative startup focused on creating cutting-edge q-commerce and e-commerce solutions through our proprietary mobile app, LYXA. Our dedicated team combines business acumen with a passion for technology to deliver a seamless shopping experience. We are committed to redefining how consumers engage with commerce in the digital age, driving growth and convenience in the online marketplace.",
+            "social": {
+              "linkedin": "https://www.linkedin.com/company/lyxa/",
+              "web": "https://lyxa.ai/"
+            },
+            "type": "partner"
+          },
+          {
+            "company_id":"14",
+            "name":"42 Beirut",
+            "company": {
+              "name": "42 Beirut",
+              "designation": "Tech Education Program"
+            },
+            "link": "https://42beirut.com/",
+            "logo": "42Beirut.png",
+            "level": "Partner",
+            "bio": "42 is a future-proof tech program designed and built to educate the next generation of Software, Mobile, Blockchain, AI, Data Science, Cybersecurity, DevOps, Cloud Networks, Game development, and System developers. Our education model focuses on project-based curriculum and peer-to-peer learning, rather than theoretical education.",
+            "description":"42 is a future-proof tech program designed and built to educate the next generation of Software, Mobile, Blockchain, AI, Data Science, Cybersecurity, DevOps, Cloud Networks, Game development, and System developers. Our education model focuses on project-based curriculum and peer-to-peer learning, rather than theoretical education. It is designed to develop technical and people skills that match the expectations of the labor market.",
+            "social": {
+              "linkedin": "https://lb.linkedin.com/school/42-beirut/",
+              "web": "https://42beirut.com/"
+            },
+            "type": "partner"
+          },
+          {
+            "company_id":"15",
+            "name":"IEEE WiE Lebanon",
+            "company": {
+              "name": "IEEE Women in Engineering Lebanon",
+              "designation": "Women in Engineering"
+            },
+            "link": "https://lb.linkedin.com/in/ieee-wie-lebanon-879478208",
+            "logo": "wie.png",
+            "level": "Partner",
+            "bio": "To inspire and empower women as leaders in engineering and technology. Through a network of more than 500 affinity groups and 15,000 members around the world, IEEE Women in Engineering (WIE) directly transforms the lives of hundreds of thousands of young girls and women via pre-university outreach, technical seminars, humanitarian projects, networking events, and educational programs.",
+            "description":"To inspire and empower women as leaders in engineering and technology. Through a network of more than 500 affinity groups and 15,000 members around the world, IEEE Women in Engineering (WIE) directly transforms the lives of hundreds of thousands of young girls and women via pre-university outreach, technical seminars, humanitarian projects, networking events, and educational programs focused on encouraging self-realization through the core ideas of the IEEE WIE mission. Women in Engineering Forum Lebanon focuses on developing and improving leadership skills for individuals at all stages of their careers. Attendees will have the opportunity to hear inspirational and empowering talks presented by successful professionals.",
+            "social": {
+              "linkedin": "https://lb.linkedin.com/in/ieee-wie-lebanon-879478208",
+              "web": ""
+            },
+            "type": "partner"
+          },
+          {
+            "company_id":"9",
+            "name":"Techlarious",
+            "company": {
+              "name": "Techlarious",
+              "designation": "E-Learning Provider"
+            },
+            "link": "https://www.techlarious.academy/",
+            "logo": "techlarious.png",
+            "level": "Partner",
+            "bio": "Techlarious is a Lebanese e-learning provider that takes education to the next level! With our expertise in the ever-evolving world of technology, we specialize in providing enthusiasts with an exhilarating range of tech and management courses. Our mission is to empower you with the knowledge and skills to excel in the digital era.",
+            "description":"Techlarious is a Lebanese e-learning provider that takes education to the next level! With our expertise in the ever-evolving world of technology, we specialize in providing enthusiasts with an exhilarating range of tech and management courses. Our mission is to empower you with the knowledge and skills to excel in the digital era. Stay ahead of the game as we guide you through the latest advancements, ensuring you're fully equipped to conquer the market with confidence. Our dynamic curriculum is meticulously designed to cover the most cutting-edge technologies, giving you a competitive edge in the industry. Whether you're a tech aficionado or a budding entrepreneur, Techlarious is your trusted partner on the path to success.",
+            "social": {
+              "linkedin": "https://www.linkedin.com/school/techlarious/",
+              "web": "https://www.techlarious.academy/"
+            },
+            "type": "partner"
+          },
+          {
+            "company_id":"10",
+            "name":"Careely",
+            "company": {
+              "name": "Careely",
+              "designation": "Career Services"
+            },
+            "link": "https://careerlyservices.com/",
+            "logo": "careerly.png",
+            "level": "Partner",
+            "bio": "Whether you need to upgrade your CV, Cover letter, LinkedIn or interview skills... We got your back! Our Career Boosting Packages and Courses are made to suit your needs and help you achieve your targets. Our adaptive Learning programmes are made to ensure effective eLearning experiences yet uplifting results in your career.",
+            "description":"Whether you need to upgrade your CV, Cover letter, LinkedIn or interview skills... We got your back! Our Career Boosting Packages and Courses are made to suit your needs and help you achieve your targets. Our adaptive Learning programmes are made to ensure effective eLearning experiences yet uplifting results in your career. Make sure to check Our pages for clients and students feedback on our services.",
+            "social": {
+              "linkedin": "https://www.linkedin.com/company/career-ly/",
+              "web": "https://careerlyservices.com/"
+            },
+            "type": "partner"
+          },
+          {
+            "company_id":"16",
+            "name":"Zeecola",
+            "company": {
+              "name": "Zeecola",
+              "designation": "F&B Partner"
+            },
+            "link": "https://www.instagram.com/zeecolalebanon/",
+            "logo": "zeecola.jpeg",
+            "level": "F&B Partner",
+            "bio": "Zeecola Lebanon - F&B Partner",
+            "description":"Zeecola Lebanon - F&B Partner",
+            "social": {
+              "linkedin": "",
+              "web": "https://www.instagram.com/zeecolalebanon/"
+            },
+            "type": "partner"
+          },
+          {
+            "company_id":"17",
+            "name":"Barista",
+            "company": {
+              "name": "Barista Coffee",
+              "designation": "F&B Partner"
+            },
+            "link": "https://baristacoffee.com/",
+            "logo": "barista.png",
+            "level": "F&B Partner",
+            "bio": "Barista Coffee - F&B Partner",
+            "description":"Barista Coffee - F&B Partner",
+            "social": {
+              "linkedin": "",
+              "web": "https://baristacoffee.com/"
+            },
+            "type": "partner"
           }
       ]
   }

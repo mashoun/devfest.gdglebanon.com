@@ -32,8 +32,7 @@
                 :alt="sponsor.name + ' logo'"
                 contain
                 max-height="80"
-                max-width="60%"
-                class="mx-auto"
+                class="mx-auto sponsor-logo"
                 style="object-fit: contain; width: auto; height: auto;"
               />
             </div>
@@ -219,9 +218,16 @@ const getTextColorClass = (level) => {
 .v-img {
   max-height: 80px;
   width: auto;
-  max-width: 60%;
+  max-width: 100%;
   object-fit: contain;
   margin: 0 auto;
+}
+
+/* Desktop: constrain logo width */
+@media (min-width: 961px) {
+  .sponsor-logo {
+    max-width: 60% !important;
+  }
 }
 
 h2.text-h5 {
