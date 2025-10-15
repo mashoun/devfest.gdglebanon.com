@@ -271,24 +271,7 @@
       "web": ""
     }
   },
-  {
-    "id": "17",
-    "name": "Leon Chlon",
-    "company": {
-      "name": "Hassana Labs",
-      "designation": "Founder"
-    },
-    "community_title": "AI Reliability Researcher | PhD in Machine Learning",
-    "image": "leon-chlon.jpg",
-    "bio": "Dr. Leon Chlon is a machine learning researcher and founder of Hassana Labs, focusing on making AI systems reliable and reproducible for enterprise deployment. He holds a PhD in Machine Learning from Cambridge University and completed postdoctoral research at Harvard and MIT. His industry experience includes building ML systems at Meta, Apple, TikTok, and consulting on AI strategy at McKinsey and the World Bank.",
-    "social": {
-      "linkedin": "https://LinkedIn.com/in/leochlon",
-      "twitter": "",
-      "github": "",
-      "web": ""
-    }
-  },
-  {
+   {
     "id": "6002",
     "name": "Mahmoud Mashoun",
     "company": {
@@ -454,6 +437,32 @@
       "github": "",
       "web": ""
     }
+  },
+   {
+    "id": "43",
+    "name": "Peter Bardawil",
+    "company": {
+      "name": "Speedlane",
+      "designation": "Associate Director"
+    },
+    "community_title": "",
+    "image": "peter-bardawil.jpeg",
+    "bio": "Peter Bardawil is a Lead Engineer and Associate Director at Speedlane, with over a decade of experience in web development and cloud systems. He's a full-stack engineer who also specializes in DevOps and cloud architecture, working with AWS, GCP, and Azure. Peter has led teams and helped build and scale large, high-impact projects used by thousands of people",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/bardawilpeter/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "sessions": [
+      {
+        "title": "From Automation to Autonomy: The Future of Intelligent Cloud Systems",
+        "description": "Modern cloud platforms automate deployments, scaling, and monitoring, yet they still depend on humans to interpret alerts, identify root causes, and take action. This talk will explore the next evolution of DevOps: autonomous cloud systems that can observe, reason, and act intelligently to maintain stability and performance.",
+        "format": "Talk (30 minutes)",
+        "level": "Intermediate Level",
+        "audience": ""
+      }
+    ]
   },
   {
     "id": "27",
