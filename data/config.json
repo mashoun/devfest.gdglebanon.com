@@ -20,7 +20,7 @@
       "address": "Lebanese American University, Beirut Campus",
       "map_link": "https://maps.app.goo.gl/vsj4VCxT4xrjNQm96"
     },
-    "registeration": {
+    "registration": {
       "link": "https://rsvp.gdglebanon.com",
       "end_date": "2025-10-20"
     },
@@ -69,7 +69,7 @@
       }
     ],
     "pastDevFest": {
-      "summery": "DevFest Beirut 2023 was a celebration of community, collaboration, and innovation. Over 2,000 tech enthusiasts showed interest, and more than 700 passionate individuals came together to share knowledge, connect, and grow. From insightful talks and hands-on workshops to vibrant networking moments, the energy was unforgettable. The full day conference featured 40+ inspiring speakers, including 4 Google Developer Experts, one Googler, backed by 5 incredible sponsors, 3 strategic partners, and 40+ dedicated volunteers. It was proof of what we can achieve as a united tech community in Lebanon. This year, we’re ready to take it even further, bigger, better, and more impactful!",
+      "summary": "DevFest Beirut 2023 was a celebration of community, collaboration, and innovation. Over 2,000 tech enthusiasts showed interest, and more than 700 passionate individuals came together to share knowledge, connect, and grow. From insightful talks and hands-on workshops to vibrant networking moments, the energy was unforgettable. The full day conference featured 40+ inspiring speakers, including 4 Google Developer Experts, one Googler, backed by 5 incredible sponsors, 3 strategic partners, and 40+ dedicated volunteers. It was proof of what we can achieve as a united tech community in Lebanon. This year, we're ready to take it even further, bigger, better, and more impactful!",
       "images": ["image-1.png", "image-2.jpg", "image-3.jpg"],
       "stats": [
         {

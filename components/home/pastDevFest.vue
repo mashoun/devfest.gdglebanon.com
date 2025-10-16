@@ -4,7 +4,7 @@
       <v-col md="12" sm="12" cols="12" class="text-center">
         <h1>Last Year at DevFest</h1>
         <p>
-          {{ mainData.eventInfo.pastDevFest.summery }}
+          {{ mainData.eventInfo.pastDevFest.summary }}
         </p>
         <v-img
           style="max-height: 300px; border: 1.5px solid black"
