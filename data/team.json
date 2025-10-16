@@ -25,23 +25,27 @@
     "image": "RIHAMBADRIZEIDAN.png",
     "bio": "Community builder with a background in Computer Science. Riham brings five years of experience organizing large-scale developer events, securing high-value sponsorships, and building partnerships across the tech ecosystem. Passionate about empowering communities, leading teams, and creating programs that inspire learning and collaboration. Invited speaker at the GDG Summit Berlin, organized by Google, where Riham delivered a talk on securing sponsorships for tech events.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/mashoun/"
+      "linkedin": "https://www.linkedin.com/in/rihamzeidan/"
     },
     "type": "Leader"
   },
   {
-    "id": "6002",
+    "id": "70981725",
     "name": "Mahmoud Mashoun",
     "company": {
-      "name": "GDG Coast Lebanon",
-      "designation": "Core Organizer & Developer"
+      "name": "Software Developer ✦ Google Cloud Automation Expert",
+      "designation": "Freelancer"
     },
-    "community_title": "GDG Coast Lebanon Organizer",
+    "community_title": "GDG Core Team Organizer",
     "image": "Mahmoud.png",
     "bio": "Mahmoud is experienced in building responsive and dynamic web applications using Vue.js and provides full-stack solutions that extend automation on Google Cloud through Google Apps Script and Firebase. He has a proven ability to integrate SEO best practices and leverage AI models such as ChatGPT and Gemini to enhance user experiences. Beyond his technical work, Mahmoud is an active Google Developer Groups (GDG) organizer, contributing to the global developer community supported by Google through collaboration and knowledge-sharing.",
-      "socials":{"linkedin": "https://www.linkedin.com/in/mashoun"
+    
+    "social":{
+      "linkedin": "https://www.linkedin.com/in/mashoun/",
+      "github": "https://github.com/mashoun",
+      "web": "https://mashoun.com"
     },
-    "type": "Core"
+    "type": "Leader"
   },
   {
     "id": "6021",

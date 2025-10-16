@@ -129,14 +129,14 @@
   },
   {
     "id": "6010",
-    "name": "IncuGame",
+    "name": "IncuGameCon",
     "company": {
       "name": "",
       "designation": ""
     },
     "community_title": "",
     "image": "IncuGame.png",
-    "bio": "IncuGame fosters the gaming industry through incubation, mentorship, and community initiatives.",
+    "bio": "Welcome to IncuGameCon, where we guide enthusiasts, developers, and investors through the dynamic landscape of the gaming industry with state-of-the-art consulting and development services. Our mission is to transform innovative ideas into engaging games, positioning ourselves as your premier partner in gaming collaboration. By merging deep market insights and intellectual property expertise with cutting-edge technology, we uphold values of integrity, discipline, and transparency. These principles drive us to foster open dialogue and strive for excellence, breaking through creative barriers and paving the way for games that resonate globally. Join us at IncuGameCon and make a lasting impact in the gaming world.",
     "social": {
       "linkedin": "https://www.linkedin.com/company/incugamecon/",
       "web": "https://incugamecon.media/"
@@ -161,17 +161,17 @@
   },
   {
     "id": "6012",
-    "name": "Jurdi Consult",
+    "name": "Jurdi & Co",
     "company": {
       "name": "",
       "designation": ""
     },
     "community_title": "",
-    "image": "Jurdi&Co.png",
-    "bio": "Jurdi Consult specializes in media, technology, and business consultancy.",
+    "image": "jurdilaw-logo.jpg",
+    "bio": "Where private practice meets the in-house lawyers' mindset. JURDI & CO provides legal services relating to media, technology, intellectual property, employment, corporate commercial and other areas of the law. We work hand in hand with our clients' in-house counsels to provide their businesses the high standard legal services they expect and well deserve.",
     "social": {
       "linkedin": "https://www.linkedin.com/company/jurdi-media-tech-consultants",
-      "web": "https://jurdiconsult.media/"
+      "web": "https://jurdilaw.com"
     },
     "type": "Core"
   },

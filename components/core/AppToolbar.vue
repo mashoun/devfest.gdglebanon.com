@@ -48,7 +48,8 @@
     <!-- Right side buttons -->
     <div class="d-flex align-center">
       <!-- Theme Toggle -->
-      <ClientOnly>
+      <!-- Disabled by Mahmoud Mashoun: the feature is nice and working , ya3teke l3afye, bas it this is affecting the styles in other places, i mean color contrast, for now will disable this feature and nshalla will fix it later. -->
+      <!-- <ClientOnly>
         <v-btn
           icon
           @click="toggleTheme"
@@ -58,7 +59,7 @@
         >
           <v-icon size="small">{{ isDark ? 'mdi-white-balance-sunny' : 'mdi-moon-waning-crescent' }}</v-icon>
         </v-btn>
-      </ClientOnly>
+      </ClientOnly> -->
       
       <!-- Register Button -->
       <ClientOnly>
