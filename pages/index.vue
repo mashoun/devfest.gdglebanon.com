@@ -51,12 +51,12 @@ useSeoMeta({
   viewport: "width=device-width, initial-scale=1.0",
   ogTitle: mainData.eventInfo.name + " | " + mainData.communityName,
   ogDescription: mainData.eventInfo.description.short,
-  ogImage: `${mainData.seo.hostUrl}/thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024`,
+  ogImage: `${mainData.seo.hostUrl}thumbnail.png`,
   ogUrl: mainData.seo.hostUrl,
   ogType: "website",
   twitterTitle: mainData.eventInfo.name + " | " + mainData.communityName,
   twitterDescription: mainData.eventInfo.description.short,
-  twitterImage: `${mainData.seo.hostUrl}thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024`,
+  twitterImage: `${mainData.seo.hostUrl}thumbnail.png`,
   twitterCard: "summary_large_image",
 });
 </script>

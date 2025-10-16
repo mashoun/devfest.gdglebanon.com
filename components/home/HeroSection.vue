@@ -6,7 +6,7 @@
           DevFest <br />
           {{ mainData.communityLocation.city }} 2025
         </h1>
-        <p class="" :style="{ maxWidth: '90%' }">
+        <p class="hero-description">
           {{ mainData.eventInfo.description.short }}
         </p>
 
@@ -18,7 +18,12 @@
 
           <span class="mr-4">
             <v-icon class="mr-1">mdi-map-legend</v-icon>
-            <a :href="mainData.eventInfo.venue.map_link" target="_blank" style="color:black">
+            <a 
+              :href="mainData.eventInfo.venue.map_link" 
+              target="_blank" 
+              class="venue-link"
+              :aria-label="`View ${mainData.eventInfo.venue.address} on map`"
+            >
               {{ mainData.eventInfo.venue.address }}
             </a>
             
@@ -31,27 +36,25 @@
           color="#FFD427"
           v-if="
             mainData.eventInfo &&
-            mainData.eventInfo.registeration.link.length &&
-            new Date(mainData.eventInfo.registeration.end_date) > new Date()
+            mainData.eventInfo.registration.link.length &&
+            new Date(mainData.eventInfo.registration.end_date) > new Date()
           "
-          :href="mainData.eventInfo.registeration.link"
-          class="my-4 mt-3"
+          :href="mainData.eventInfo.registration.link"
+          class="my-4 mt-3 hero-register-btn"
           target="_blank"
-          style="border: 1.5px solid #1e1e1e; color: black"
           variant="flat"
           >Register Now</v-btn
         >
       </v-col>
       <v-col md="6" sm="6" cols="12" class="px-0">
         <v-img
-          alt="logo"
+          alt="DevFest Coast Lebanon 2025 Event Illustration"
           src="assets/img/hero-image.png"
           lazy-src="assets/img/hero-image.png"
           :width="mobile ? '100%' : 'auto'"
           :height="mobile ? 'auto' : '100%'"
           contain
-          class="mx-auto"
-          style="max-width: 100%;"
+          class="mx-auto hero-image"
         ></v-img>
       </v-col>
     </v-row>
@@ -78,6 +81,28 @@ const { mainData } = useJSONData();
   line-height: 100%;
   word-break: break-word;
   padding-right: 16px;
+}
+
+.hero-description {
+  max-width: 90%;
+}
+
+.venue-link {
+  color: rgb(var(--v-theme-on-surface));
+  text-decoration: none;
+}
+
+.venue-link:hover {
+  text-decoration: underline;
+}
+
+.hero-register-btn {
+  border: 1.5px solid #1e1e1e;
+  color: black;
+}
+
+.hero-image {
+  max-width: 100%;
 }
 
 /* Media query for screens larger than 600px */

@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "devfest-gdg-lebanon",
   "private": true,
   "type": "module",
   "scripts": {
@@ -7,17 +7,27 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
     "@mdi/font": "^7.4.47",
     "firebase": "^10.13.0",
     "nuxt": "^3.12.4",
     "nuxt-gtag": "^3.0.1",
-    "vue": "latest"
+    "vue": "^3.4.0"
   },
   "devDependencies": {
+    "@nuxt/eslint-config": "^0.3.0",
+    "@types/node": "^20.0.0",
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0",
+    "typescript": "^5.0.0",
     "vite-plugin-vuetify": "^2.0.4",
+    "vue-tsc": "^1.8.0",
     "vuetify": "^3.7.0"
   }
 }

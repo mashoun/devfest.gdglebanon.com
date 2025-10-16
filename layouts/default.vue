@@ -1,5 +1,5 @@
 <template>
-  <v-app style="background-color: #FFFFFF" class="google-font">
+  <v-app class="google-font">
     <CoreAppToolbar />
     <ClientOnly>
       <CoreAppDrawer />
