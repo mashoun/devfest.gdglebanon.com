@@ -11,9 +11,33 @@ Show some ❤️ and star the repo to support the project
     - Install [Node.js (v20 or above)](https://nodejs.org/en/download/)
 1. Install project dependencies: `npm install` 
 1. Compiles and hot-reloads for development use `npm run dev`
-1. Update JSON files from `/data` and `/public/` directory
-1. Upload all the images related to Speakers, Team and Sponsors in `/public/speakers/` | `/public/team/` with their respective directory and try to upload the images in 1:1 aspect ratio
-1. For the production: `npm run generate` and then one dir will be created for static hosting
+1. Update JSON files from `/data` directory
+1. Upload all images related to Speakers, Team and Sponsors in `/public/speakers/` | `/public/team/` directories with 1:1 aspect ratio
+1. For production: `npm run generate` and then `.output` directory will be created for static hosting
+
+### Development
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Generate static files
+npm run generate
+
+# Preview production build
+npm run preview
+```
+
+### Troubleshooting
+
+- If you encounter TypeScript errors, run `npm run type-check` to identify issues
+- For build issues, ensure all dependencies are installed with `npm install`
+- Check that Node.js version is 20 or above
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
@@ -63,8 +87,25 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 ## Contributing
 Awesome! We would greatly appreciate it if you could contribute to all kinds. To help smoothen the process we have a few non-exhaustive guidelines to follow which should get you going in no time.
 
+## Code Quality
+
+### Linting and Formatting
+```bash
+# Run ESLint
+npm run lint
+
+# Fix ESLint issues automatically
+npm run lint:fix
+
+# Format code with Prettier
+npm run format
+
+# Type check with TypeScript
+npm run type-check
+```
+
 ## LICENSE
-Check out the developer [LICENSE](https://github.com/oss-labs/devfest-2024/blob/main/LICENSE)
+Check out the [LICENSE](https://github.com/mashoun/devfest.gdglebanon.com/blob/main/LICENSE)
 
 ## Facing Any Problem or need any Help?
-Write us in the [issues](https://github.com/oss-labs/devfest-2024/issues) section. Our team will try to solve your issue within 10-12 hours.<be>
+Write us in the [issues](https://github.com/mashoun/devfest.gdglebanon.com/issues) section. Our team will try to solve your issue within 10-12 hours.

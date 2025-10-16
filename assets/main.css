@@ -8,6 +8,26 @@
   font-family: "google-sans", Helvetica, Arial, Sans-Serif;
 }
 
+/* Dark mode text color fixes */
+.v-theme--dark {
+  color: rgb(var(--v-theme-on-background)) !important;
+}
+
+.v-theme--dark h1,
+.v-theme--dark h2,
+.v-theme--dark h3,
+.v-theme--dark h4,
+.v-theme--dark h5,
+.v-theme--dark h6,
+.v-theme--dark p {
+  color: rgb(var(--v-theme-on-background)) !important;
+}
+
+.v-theme--dark .v-card {
+  background-color: rgb(var(--v-theme-surface)) !important;
+  color: rgb(var(--v-theme-on-surface)) !important;
+}
+
 .footer-icons {
   /* float: right; */
   display: flex;
