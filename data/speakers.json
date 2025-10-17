@@ -586,5 +586,22 @@
       "github": "",
       "web": ""
     }
+  },
+  {
+    "id": "33",
+    "name": "Hasan Nahleh",
+    "company": {
+      "name": "YouBee.ai",
+      "designation": "Founder"
+    },
+    "community_title": "Senior Software Engineer | Educator | Project Manager",
+    "image": "nahle.jpg",
+    "bio": "Hasan Nahleh is the Founder of YouBee.ai, a Senior Software Engineer, Educator, and Project Manager with extensive experience in public speaking and technical education. He has delivered over 20 talks across more than 10 universities in Lebanon, reaching audiences of up to 300 people, and has conducted hundreds of online sessions. His passion lies in sharing knowledge and empowering the next generation of developers through education and mentorship.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nahleh/",
+      "twitter": "",
+      "github": "",
+      "web": "https://youbee.ai"
+    }
   }
 ]
