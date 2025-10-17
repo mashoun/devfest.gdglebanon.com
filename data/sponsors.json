@@ -118,6 +118,25 @@
                     "web": "https://www.kddc.com/"
                 },
                 "type": "sponsor"
+            },
+            {
+                "company_id": "9",
+                "name": "uPaint",
+                "company": {
+                    "name": "uPaint",
+                    "designation": "ML-Powered Painting Kit"
+                },
+                "community_title": "",
+                "image": "upaint.png",
+                "logo": "upaint.png",
+                "level": "bronze",
+                "bio": "uPaint is an all inclusive painting kit, backed up by a Machine Learning and Image Processing based software, that allows anyone, even with NO PREVIOUS PAINTING SKILLS, to paint ready-made or customized Artwork through numbers.",
+                "description": "uPaint is an all inclusive painting kit, backed up by a Machine Learning and Image Processing based software, that allows anyone, even with NO PREVIOUS PAINTING SKILLS, to paint ready-made or customized Artwork through numbers.",
+                "social": {
+                    "linkedin": "https://www.linkedin.com/company/upaint/",
+                    "web": "https://upaint.me/"
+                },
+                "type": "sponsor"
             }
         ]
     },
