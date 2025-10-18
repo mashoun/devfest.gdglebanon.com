@@ -22,7 +22,7 @@
                 centered
                 class="px-3"
               >
-                <v-tab v-for="(item, index) in scheduleData" :key="index">{{
+                <v-tab v-for="(item, index) in scheduleData" :key="item.date || index">{{
                   item.date
                 }}</v-tab>
               </v-tabs>
@@ -35,7 +35,7 @@
             >
               <v-tabs-window-item
                 v-for="(item, index) in scheduleData"
-                :key="index"
+                :key="item.date || index"
                 class="pa-0 ma-0"
               >
                 <CommonScheduleDetails :data="item" />

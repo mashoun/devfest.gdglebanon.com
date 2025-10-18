@@ -1,62 +1,377 @@
 [
-    {
-        "id": "1001",
-        "slide": "",
-        "title": "Session 1",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
-        "speakers": [
-            101
-        ]
-    },
-    {
-        "id": "1002",
-        "slide": "",
-        "title": "Session 2",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
-        "speakers": [
-            101
-        ]
-    },
-    {
-        "id": "1003",
-        "slide": "",
-        "title": "Session 3",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
-        "speakers": [
-            102, 101
-        ]
-    },
-    {
-        "id": "1004",
-        "slide": "",
-        "title": "Session 4",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
-        "speakers": [
-            102
-        ]
-    }
+            {
+                "id": "session_001",
+                "slide": "",
+                "title": "Opening Keynote: Welcome to DevFest 2025!",
+                "description": "Official opening keynote to welcome attendees to DevFest 2025.",
+                "track": "Keynote",
+                "link": null,
+                "time": "9:00-9:20",
+                "format": "Keynote",
+                "date": "Irwin Hall",
+                "timeDuration": "20",
+                "speakers": []
+            },
+            {
+                "id": "session_002",
+                "slide": "",
+                "title": "The New Architecture Stack: Where Specs Become Systems and Code",
+                "description": "For half a century, software has lived with a structural flaw: the translation gap[cite: 31]. This talk introduces a new architecture stack where requirements live as Code, models run as Systems, and specs execute directly, closing the gap and moving at the velocity of imagination[cite: 33, 34, 35, 38]. This is the era where the business is the system, the model is the product, and the requirement is the release[cite: 42].",
+                "track": "Software Architecture",
+                "link": null,
+                "time": "9:20-10:00",
+                "format": "Talk (40 minutes)",
+                "date": "Irwin Hall",
+                "timeDuration": "40",
+                "speakers": [
+                    {
+                        "name": "Elie Hannouch",
+                        "bio": "A visionary product and architecture leader who crafts and launches transformative digital ecosystems that empower organizations to scale and adapt[cite: 190]. He guides cross-functional teams from idea to market impact, transforming ambiguous challenges into crystal-clear roadmaps[cite: 191].",
+                        "title": "Product Manager",
+                        "company": "Netways"
+                    }
+                ]
+            },
+            {
+                "id": "session_003",
+                "slide": "",
+                "title": "ViewModel: One-off event antipatterns",
+                "description": "This talk dives into the challenges of managing one-off events in Android ViewModels[cite: 113]. We’ll explore common mistakes and share best practices for building cleaner, more predictable app architecture. You will learn to identify and avoid common pitfalls and gain practical strategies for replacing one-off event patterns with state-driven approaches[cite: 114, 115].",
+                "track": "Mobile Development",
+                "link": null,
+                "time": "9:20-10:00",
+                "format": "Talk (40 minutes)",
+                "date": "Gulbenkian Theater",
+                "timeDuration": "40",
+                "speakers": [
+                    {
+                        "name": "Mohyddine Al-lahham",
+                        "bio": "Experienced native Android developer with over 5 years of experience[cite: 166].",
+                        "title": "Android Developer",
+                        "company": "Matic Services"
+                    }
+                ]
+            },
+            {
+                "id": "session_004",
+                "slide": "",
+                "title": "PWA: Bridging Web and Mobile",
+                "description": "Discover how PWAs blur the line between websites and mobile apps[cite: 54]. In this session, you’ll learn how they work, why they’re fast and reliable, and how features like offline access, push notifications, and installability are changing the way users experience the web[cite: 54].",
+                "track": "Web Development",
+                "link": null,
+                "time": "9:20-10:00",
+                "format": "Talk (40 minutes)",
+                "date": "WKSC 201",
+                "timeDuration": "40",
+                "speakers": [
+                    {
+                        "name": "Hasan Nahle",
+                        "bio": "Founder of Youbee.ai[cite: 166].",
+                        "title": "Founder",
+                        "company": "YouBee.ai"
+                    }
+                ]
+            },
+            {
+                "id": "session_005",
+                "slide": "",
+                "title": "Microservices: The Power of Breaking Down to Build Up",
+                "description": "This talk delves into principles behind microservices, showing how breaking large, complex systems into smaller, manageable components leads to greater agility, scalability and innovation[cite: 18].",
+                "track": "Software Architecture",
+                "link": null,
+                "time": "10:00-10:40",
+                "format": "Talk (30 minutes)",
+                "date": "Irwin Hall",
+                "timeDuration": "40",
+                "speakers": [
+                    {
+                        "name": "Mohammad Zbib",
+                        "bio": "A Software Engineer specializing in backend systems, microservices, and cloud infrastructure[cite: 234]. He builds scalable, high performance solutions and turns ideas into reliable services that run smoothly at scale[cite: 234, 235].",
+                        "title": "Software Engineer",
+                        "company": "Lyxa"
+                    }
+                ]
+            },
+            {
+                "id": "session_006",
+                "slide": "",
+                "title": "Building Scalable Apps: MVVM in Android",
+                "description": "Learn how to build scalable and maintainable Android apps using the MVVM architecture pattern[cite: 131]. This session will help you understand how to separate concerns, manage data efficiently with ViewModel and LiveData, and write clean, testable code[cite: 132].",
+                "track": "Mobile Development",
+                "link": null,
+                "time": "10:00-10:40",
+                "format": "Talk",
+                "date": "Gulbenkian Theater",
+                "timeDuration": "40",
+                "speakers": [
+                    {
+                        "name": "Sam Shouman",
+                        "bio": "Senior Android Developer and content creator known as samDroid[cite: 253]. Co-founder of Develeb, the tech community of Lebanon[cite: 253].",
+                        "title": "Senior Android Developer",
+                        "company": "FOO"
+                    }
+                ]
+            },
+            {
+                "id": "session_007",
+                "slide": "",
+                "title": "Digitizing Municipalities: Transforming Local Governance",
+                "description": "This session explores how technology is driving the digital transformation of municipalities[cite: 20]. The first part focuses on streamlining operations and improving citizen communication, while the second dives into the technologies behind the platform[cite: 20, 21]. Finally, it discusses the integration of AI and chatbots to help users access information and municipal services with ease[cite: 22].",
+                "track": "AI & Society",
+                "link": null,
+                "time": "10:40-11:15",
+                "format": "Talk (40 minutes)",
+                "date": "Irwin Hall",
+                "timeDuration": "35",
+                "speakers": [
+                    {
+                        "name": "Alaa Al Sayegh",
+                        "bio": "CEO and Founder of AST[cite: 166].",
+                        "title": "CEO",
+                        "company": "AST"
+                    },
+                    {
+                        "name": "Dani Al Banna",
+                        "bio": "Software Engineer at AST[cite: 166].",
+                        "title": "Software Engineer",
+                        "company": "AST"
+                    }
+                ]
+            },
+            {
+                "id": "session_008",
+                "slide": "",
+                "title": "Non-functional Aspects of Frontend Development",
+                "description": "Besides getting a web application to work, there are other aspects that developers work on to boost the business. In this talk we will talk about them[cite: 76].",
+                "track": "Web Development",
+                "link": null,
+                "time": "10:40-11:15",
+                "format": "Lightning Talk (15 minutes)",
+                "date": "Gulbenkian Theater",
+                "timeDuration": "35",
+                "speakers": [
+                    {
+                        "name": "Judy Abi Nehme",
+                        "bio": "Judy began his engineering career in smart homes before transitioning into software engineering[cite: 210]. He currently works with Upwork as a frontend engineer and teaches Data Structures and Algorithms at the Lebanese University[cite: 210].",
+                        "title": "Software engineer",
+                        "company": "Upwork"
+                    }
+                ]
+            },
+            {
+                "id": "session_009",
+                "slide": "",
+                "title": "Frontend x AI: What stays, what changes",
+                "description": "AI is changing how we build web applications, but some things never change[cite: 109]. This talk explores what skills and principles remain essential, and what AI is transforming, so you can thrive in modern frontend development with AI as a collaborator[cite: 109, 110].",
+                "track": "Web Development",
+                "link": null,
+                "time": "11:15-11:50",
+                "format": "Talk (40 minutes)",
+                "date": "Gulbenkian Theater",
+                "timeDuration": "35",
+                "speakers": [
+                    {
+                        "name": "Mohammad Makkeh",
+                        "bio": "Frontend Engineer & Designer at Anghami[cite: 166].",
+                        "title": "Frontend Developer",
+                        "company": "Anghami"
+                    }
+                ]
+            },
+            {
+                "id": "session_010",
+                "slide": "",
+                "title": "How To Get Paid A Salary To Build Your Startup Without Any Investors",
+                "description": "Most developers think they have only two choices: a safe job or a risky startup[cite: 140]. This talk shares a middle path to get paid a salary while building your startup without investors, overtime, or burnout, grounded in market validation and real customer demand[cite: 143].",
+                "track": "Career & Community",
+                "link": null,
+                "time": "11:50-12:15",
+                "format": "Talk (40 minutes)",
+                "date": "Irwin Hall",
+                "timeDuration": "25",
+                "speakers": [
+                    {
+                        "name": "Samer Bechara",
+                        "bio": "Samer has spent the past 20 years building software for startups, founding three of his own[cite: 254]. His talk distills two decades of lessons into practical, no-fluff advice for developers who want to build their own startup the smart way[cite: 255].",
+                        "title": "Founder",
+                        "company": "Visibot"
+                    }
+                ]
+            },
+            {
+                "id": "session_011",
+                "slide": "",
+                "title": "Inside the Mind of 1M$ Ethical Hackers",
+                "description": "A session exploring the strategies and mindset of top-tier ethical hackers.",
+                "track": "Security",
+                "link": null,
+                "time": "12:15-12:45",
+                "format": "Talk",
+                "date": "Irwin Hall",
+                "timeDuration": "30",
+                "speakers": [
+                    {
+                        "name": "Team Semicolon",
+                        "bio": "A team of cybersecurity researchers recognized for uncovering vulnerabilities in leading organizations like Meta, Apple, and Google[cite: 171, 204, 222].",
+                        "title": "Cybersecurity Researchers",
+                        "company": "Semicolon"
+                    }
+                ]
+            },
+            {
+                "id": "session_012",
+                "slide": "",
+                "title": "Panel: The Talent Challenge: Hiring, Retaining & Growing Devs in Lebanon",
+                "description": "A panel discussion on a hot topic locally, mixing founders and tech leads[cite: 82]. Key themes include hiring challenges like finding senior engineers and salary benchmarking; retention strategies beyond salary; and growth opportunities to bridge the gap between university and real-world skills[cite: 83, 84, 86].",
+                "track": "Career & Community",
+                "link": null,
+                "time": "12:45-13:15",
+                "format": "Panel Discussion (40 to 60 minutes)",
+                "date": "Irwin Hall",
+                "timeDuration": "30",
+                "speakers": [
+                    {
+                        "name": "Laura Jardine Paterson",
+                        "bio": "Passionate about creating a more inclusive tech sector and empowering marginalised women to find sustainable employment[cite: 215]. She has built two bootstrapped businesses across the Middle East and Europe[cite: 215].",
+                        "title": "CEO / Founder, Women In Tech",
+                        "company": "CONCAT Tech"
+                    },
+                    {
+                        "name": "Fadi Boulos",
+                        "bio": "Founder of Supportful, an impact startup that helps global tech startups grow their teams with remote engineers from Lebanon[cite: 199]. Supportful aims to reduce the brain drain and help small communities retain their human capital[cite: 200].",
+                        "title": "CEO",
+                        "company": "Supportful"
+                    },
+                    {
+                        "name": "Abdullah Bakhach",
+                        "bio": null,
+                        "title": null,
+                        "company": null
+                    }
+                ]
+            },
+            {
+                "id": "session_013",
+                "slide": "",
+                "title": "Build More, Stress Less: App Development with Google Cloud",
+                "description": "In today’s fast-paced world, speed and simplicity are key when bringing app ideas to life[cite: 18]. This session explores how Google Cloud empowers developers to build and deploy applications faster and more efficiently than ever before with tools like Firebase, Cloud Run, and App Engine[cite: 18].",
+                "track": "Cloud & DevOps",
+                "link": null,
+                "time": "13:45-14:15",
+                "format": "Talk (40 minutes)",
+                "date": "Gulbenkian Theater",
+                "timeDuration": "30",
+                "speakers": [
+                    {
+                        "name": "Abdulrazzak Trabulsi",
+                        "bio": "A DevOps engineer with over 6 years of experience, serving as a DevOps Engineer at Algooru and a GCP Cloud Architect at Dataholic Cloud Services[cite: 166]. His technical stack is focused on GCP and AWS, encompassing tools like Terraform, Docker, and Kubernetes[cite: 166].",
+                        "title": "DevOps Engineer",
+                        "company": "innoscripta se"
+                    },
+                    {
+                        "name": "Bayan Al Ayoubi",
+                        "bio": "A Flutter Developer and Data Analyst, powered by clean architecture and data-driven insights, with experience in AI and app design[cite: 176].",
+                        "title": "flutter developer and Data Analyst",
+                        "company": "Transforat"
+                    }
+                ]
+            },
+            {
+                "id": "session_014",
+                "slide": "",
+                "title": "Workshop: Build CV Analyzer with Gemma and GCP",
+                "description": "A hands-on workshop session on building a CV analyzer tool using the Gemma model and Google Cloud Platform technologies.",
+                "track": "AI/ML",
+                "link": null,
+                "time": "13:45-14:15",
+                "format": "Workshop",
+                "date": "AKSOB 905",
+                "timeDuration": "30",
+                "speakers": [
+                    {
+                        "name": "Mohamed Buallay",
+                        "bio": "A Google Developer Expert (GDE) in AI and cloud technology, passionate about empowering individuals and organizations with innovative solutions[cite: 232]. He has trained over 10,000 professionals in AI across Arab countries[cite: 233].",
+                        "title": "Data Architect & Reporting Lead",
+                        "company": "Tamkeen"
+                    },
+                    {
+                        "name": "Amel Sellami",
+                        "bio": "ML Research Engineer at InstaDeep[cite: 166].",
+                        "title": "ML Research Engineer",
+                        "company": "InstaDeep"
+                    }
+                ]
+            },
+            {
+                "id": "session_015",
+                "slide": "",
+                "title": "LUNCH BREAK, Career Fair & Group Photo",
+                "description": "Lunch break for all attendees, with a career fair and group photo opportunity.",
+                "track": "General",
+                "link": null,
+                "time": "14:15-15:15",
+                "format": "Break",
+                "date": "Multiple Locations",
+                "timeDuration": "60",
+                "speakers": []
+            },
+            {
+                "id": "session_016",
+                "slide": "",
+                "title": "“Code. Commit. Deploy.”",
+                "description": "A deep dive into building efficient CI/CD pipelines that empower teams to release faster, reduce errors, and automate every step from code to production[cite: 28]. The session will encourage attendees to think faster and more flexibly by using gcp tools for building reliable systems[cite: 29].",
+                "track": "Cloud & DevOps",
+                "link": null,
+                "time": "15:15-15:45",
+                "format": "Talk (40 minutes)",
+                "date": "Irwin Hall",
+                "timeDuration": "30",
+                "speakers": [
+                    {
+                        "name": "Awedis Keofteian",
+                        "bio": "Awedis Keofteian is a Senior DevOps Engineer at Washmen and an AWS Hero, passionate about automation, coding, and cloud innovation[cite: 166].",
+                        "title": "Senior DevOps Engineer",
+                        "company": "Washmen"
+                    }
+                ]
+            },
+            {
+                "id": "session_017",
+                "slide": "",
+                "title": "10 Minute Papers",
+                "description": "A rapid-fire tour of fascinating AI research that’s flying under the radar[cite: 97]. We’ll take turns spotlighting papers, breaking them down in plain English, and chatting about what they might mean for the future of AI[cite: 97]. You’ll walk away with fresh ideas and a reminder that AI is way bigger than just chatbots[cite: 99].",
+                "track": "AI/ML",
+                "link": null,
+                "time": "15:45-16:15",
+                "format": "Talk (40 minutes)",
+                "date": "Irwin Hall",
+                "timeDuration": "30",
+                "speakers": [
+                    {
+                        "name": "Mohamad Darsa",
+                        "bio": "Data Engineer at Proximie, formerly a Backend Engineer at FOO and Software Engineer at Murex. ACPC finalist[cite: 166].",
+                        "title": "Data Engineer",
+                        "company": "Proximie"
+                    },
+                    {
+                        "name": "Issa Farhat",
+                        "bio": "Lead AI Engineer at Digico Solutions[cite: 166].",
+                        "title": "Lead AI Engineer",
+                        "company": "Digico Solutions"
+                    }
+                ]
+            },
+            {
+                "id": "session_018",
+                "slide": "",
+                "title": "Closing Ceremony & Winners Announcements",
+                "description": "The official closing ceremony for DevFest 2025, including announcements for winners of various competitions.",
+                "track": "General",
+                "link": null,
+                "time": "17:15-17:30",
+                "format": "Ceremony",
+                "date": "Irwin Hall",
+                "timeDuration": "15",
+                "speakers": []
+            }
 ]

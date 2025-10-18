@@ -4,24 +4,54 @@
         "date": "Irwin Hall",
         "schedule": [
             {
-                "startTime": "03:30",
-                "endTime": "04:00",
-                "session": 1001
+                "startTime": "9:00",
+                "endTime": "9:20",
+                "session": "session_001"
             },
             {
-                "startTime": "04:00",
-                "endTime": "04:40",
-                "session": 1002
+                "startTime": "9:20",
+                "endTime": "10:00",
+                "session": "session_002"
             },
             {
-                "startTime": "04:50",
-                "endTime": "05:30",
-                "session": 1003
+                "startTime": "10:00",
+                "endTime": "10:40",
+                "session": "session_005"
             },
             {
-                "startTime": "05:40",
-                "endTime": "06:00",
-                "session": 1004
+                "startTime": "10:40",
+                "endTime": "11:15",
+                "session": "session_007"
+            },
+            {
+                "startTime": "11:50",
+                "endTime": "12:15",
+                "session": "session_010"
+            },
+            {
+                "startTime": "12:15",
+                "endTime": "12:45",
+                "session": "session_011"
+            },
+            {
+                "startTime": "12:45",
+                "endTime": "13:15",
+                "session": "session_012"
+            },
+            {
+                "startTime": "15:15",
+                "endTime": "15:45",
+                "session": "session_016"
+            },
+            {
+                "startTime": "15:45",
+                "endTime": "16:15",
+                "session": "session_017"
+            },
+            {
+                "startTime": "17:15",
+                "endTime": "17:30",
+                "session": "session_018"
             }
         ]
     },
@@ -30,50 +60,62 @@
         "date": "Gulbenkian Theater",
         "schedule": [
             {
-                "startTime": "03:30",
-                "endTime": "04:00",
-                "session": 1001
+                "startTime": "9:20",
+                "endTime": "10:00",
+                "session": "session_003"
             },
             {
-                "startTime": "04:00",
-                "endTime": "04:40",
-                "session": 1002
+                "startTime": "10:00",
+                "endTime": "10:40",
+                "session": "session_006"
             },
             {
-                "startTime": "04:50",
-                "endTime": "05:30",
-                "session": 1003
+                "startTime": "10:40",
+                "endTime": "11:15",
+                "session": "session_008"
             },
             {
-                "startTime": "05:40",
-                "endTime": "06:00",
-                "session": 1004
+                "startTime": "11:15",
+                "endTime": "11:50",
+                "session": "session_009"
+            },
+            {
+                "startTime": "13:45",
+                "endTime": "14:15",
+                "session": "session_013"
             }
         ]
     },
     {
         "day": "1",
-        "date": "Askob 1207",
+        "date": "WKSC 201",
         "schedule": [
             {
-                "startTime": "03:30",
-                "endTime": "04:00",
-                "session": 1001
-            },
+                "startTime": "9:20",
+                "endTime": "10:00",
+                "session": "session_004"
+            }
+        ]
+    },
+    {
+        "day": "1",
+        "date": "AKSOB 905",
+        "schedule": [
             {
-                "startTime": "04:00",
-                "endTime": "04:40",
-                "session": 1002
-            },
+                "startTime": "13:45",
+                "endTime": "14:15",
+                "session": "session_014"
+            }
+        ]
+    },
+    {
+        "day": "1",
+        "date": "Multiple Locations",
+        "schedule": [
             {
-                "startTime": "04:50",
-                "endTime": "05:30",
-                "session": 1003
-            },
-            {
-                "startTime": "05:40",
-                "endTime": "06:00",
-                "session": 1004
+                "startTime": "14:15",
+                "endTime": "15:15",
+                "session": "session_015"
             }
         ]
     }

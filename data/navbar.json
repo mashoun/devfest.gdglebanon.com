@@ -7,7 +7,7 @@
   {
     "name": "Agenda",
     "path": "/agenda",
-    "visible": false
+    "visible": true
   },
   {
     "name": "Speakers",

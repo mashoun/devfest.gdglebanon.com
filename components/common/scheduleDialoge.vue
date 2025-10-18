@@ -9,18 +9,17 @@
 
         <p class="mb-0 h1-subheading google-font">{{ props.data.title }}</p>
 
-        <span v-for="(itemp, indexp) in speakers" :key="indexp">
-          <v-chip pill class="mt-2 mr-2">
-            <v-avatar start>
-              <img :src="getImgUrl(itemp.image)" style="width: 100%" />
-            </v-avatar>
-            {{ itemp.name }}
-          </v-chip>
-        </span>
 
-        <v-chip v-if="props.data.track" small class="mt-2">{{
-          props.data.track
-        }}</v-chip>
+      <v-chip v-if="props.data.track" small class="mt-2">
+        {{ props.data.track }}
+        <template v-if="speakers && speakers.length > 0">
+          <span v-for="(speaker, index) in speakers" :key="index" class="ml-1">
+            <span v-if="index === 0">•</span>
+            <span class="ml-1" style="color: #1a73e8">👤 {{ speaker.name }}</span>
+            <span v-if="index < speakers.length - 1">,</span>
+          </span>
+        </template>
+      </v-chip> 
       </div>
     </template>
 
@@ -89,8 +88,8 @@
               </v-chip>
               <v-container fluid class="px-0 mx-0">
                 <span v-for="(itemp, indexp) in speakers" :key="indexp">
-                  <v-chip pill class="mt-2 mr-2">
-                    <v-avatar start>
+                  <v-chip pill class="mt-2 mr-2" v-if="itemp">
+                    <v-avatar start v-if="itemp.image">
                       <img :src="getImgUrl(itemp.image)" style="width: 100%" />
                     </v-avatar>
                     {{ itemp.name }}
@@ -117,21 +116,30 @@ let speakers = ref([]);
 
 const props = defineProps({
   data: {
-    type: Array,
-    default: [],
+    type: Object,
+    default: () => ({}),
   },
 });
 
 onMounted(() => {
-  speakers.value = props.data.speakers.map((speakerId) => {
-    return speakersData.find(
-      (speaker) => parseInt(speaker.id) === parseInt(speakerId)
-    );
-  });
+  if (props.data && props.data.speakers && Array.isArray(props.data.speakers)) {
+    // Check if speakers are already objects or if they are IDs
+    if (props.data.speakers.length > 0 && typeof props.data.speakers[0] === 'object') {
+      // Speakers are already full objects, use them directly
+      speakers.value = props.data.speakers;
+    } else {
+      // Speakers are IDs, look them up in speakersData
+      speakers.value = props.data.speakers.map((speakerId) => {
+        return speakersData.find(
+          (speaker) => parseInt(speaker.id) === parseInt(speakerId)
+        );
+      }).filter(speaker => speaker !== undefined);
+    }
+  }
 });
 
 const getImgUrl = (pic, defaultimage = "avatar.png") => {
-  if (pic.length > 0) {
+  if (pic && pic.length > 0) {
     return "/img/speakers/" + pic;
   } else {
     return "/img/common/" + defaultimage;
