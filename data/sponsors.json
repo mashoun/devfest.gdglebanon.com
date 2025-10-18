@@ -344,20 +344,21 @@
         "type": "partner"
       },
       {
-        "company_id": "16",
-        "name": "Zeecola",
+        "company_id": "20",
+        "name": "Fakker.AI",
         "company": {
-          "name": "Zeecola",
-          "designation": "F&B Partner"
+          "name": "Fakker.AI",
+          "designation": "IT System Custom Software Development"
         },
-        "link": "https://www.instagram.com/zeecolalebanon/",
-        "logo": "zeecola.jpeg",
-        "level": "F&B Partner",
-        "bio": "Zeecola Lebanon - F&B Partner",
-        "description": "Zeecola Lebanon - F&B Partner",
+        "community_title": "Fast Thinkers, Clever Solutions",
+        "image": "fakker.png",
+        "logo": "fakker.png",
+        "level": "AI Partner",
+        "bio": "At Fakker.ai, we specialize in rapid prototyping and innovative AI solutions. Our mission is to help businesses quickly transform ideas into reality with cutting-edge technology.",
+        "description": "At Fakker.ai, we specialize in rapid prototyping and innovative AI solutions. Our mission is to help businesses quickly transform ideas into reality with cutting-edge technology. Whether you're looking to develop proof of concepts (PoCs), minimum viable products (MVPs), or full-scale AI integrations, we provide the expertise and support to accelerate your AI journey.",
         "social": {
-          "linkedin": "",
-          "web": "https://www.instagram.com/zeecolalebanon/"
+          "linkedin": "https://www.linkedin.com/company/fakker-ai",
+          "web": "https://fakker.ai/"
         },
         "type": "partner"
       },
@@ -376,6 +377,24 @@
         "social": {
           "linkedin": "",
           "web": "https://baristacoffee.com/"
+        },
+        "type": "partner"
+      },
+      {
+        "company_id": "16",
+        "name": "Zeecola",
+        "company": {
+          "name": "Zeecola",
+          "designation": "F&B Partner"
+        },
+        "link": "https://www.instagram.com/zeecolalebanon/",
+        "logo": "zeecola.jpeg",
+        "level": "F&B Partner",
+        "bio": "Zeecola Lebanon - F&B Partner",
+        "description": "Zeecola Lebanon - F&B Partner",
+        "social": {
+          "linkedin": "",
+          "web": "https://www.instagram.com/zeecolalebanon/"
         },
         "type": "partner"
       }
