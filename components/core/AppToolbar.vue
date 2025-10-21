@@ -67,8 +67,7 @@
           rounded
           v-if="
             mainData &&
-            mainData.eventInfo.registration.link.length &&
-            new Date(mainData.eventInfo.registration.end_date) > new Date()
+            mainData.eventInfo.registration.link.length
           "
           :href="mainData.eventInfo.registration.link"
           class="d-md-flex d-lg-flex d-sm-flex d-none register-btn ml-2"
