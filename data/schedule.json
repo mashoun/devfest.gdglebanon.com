@@ -4,24 +4,34 @@
         "date": "Irwin Hall",
         "schedule": [
             {
-                "startTime": "03:30",
-                "endTime": "04:00",
-                "session": 1001
+                "startTime": "09:00",
+                "endTime": "09:45",
+                "session": "panel-investors"
             },
             {
-                "startTime": "04:00",
-                "endTime": "04:40",
-                "session": 1002
+                "startTime": "10:00",
+                "endTime": "10:45",
+                "session": "ai-future-systems"
             },
             {
-                "startTime": "04:50",
-                "endTime": "05:30",
-                "session": 1003
+                "startTime": "11:00",
+                "endTime": "11:45",
+                "session": "cloud-devops-automation"
             },
             {
-                "startTime": "05:40",
-                "endTime": "06:00",
-                "session": 1004
+                "startTime": "14:00",
+                "endTime": "14:45",
+                "session": "web-frontend-innovation"
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "15:45",
+                "session": "data-algorithms-optimization"
+            },
+            {
+                "startTime": "16:00",
+                "endTime": "16:45",
+                "session": "enterprise-architecture"
             }
         ]
     },
@@ -30,24 +40,29 @@
         "date": "Gulbenkian Theater",
         "schedule": [
             {
-                "startTime": "03:30",
-                "endTime": "04:00",
-                "session": 1001
+                "startTime": "09:00",
+                "endTime": "09:45",
+                "session": "panel-investors"
             },
             {
-                "startTime": "04:00",
-                "endTime": "04:40",
-                "session": 1002
+                "startTime": "12:00",
+                "endTime": "12:45",
+                "session": "mobile-flutter-development"
             },
             {
-                "startTime": "04:50",
-                "endTime": "05:30",
-                "session": 1003
+                "startTime": "14:00",
+                "endTime": "14:45",
+                "session": "web-frontend-innovation"
             },
             {
-                "startTime": "05:40",
-                "endTime": "06:00",
-                "session": 1004
+                "startTime": "17:00",
+                "endTime": "17:45",
+                "session": "dotnet-community-building"
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "18:45",
+                "session": "startup-entrepreneurship"
             }
         ]
     },
@@ -56,24 +71,34 @@
         "date": "Askob 1207",
         "schedule": [
             {
-                "startTime": "03:30",
-                "endTime": "04:00",
-                "session": 1001
+                "startTime": "10:00",
+                "endTime": "10:45",
+                "session": "ai-future-systems"
             },
             {
-                "startTime": "04:00",
-                "endTime": "04:40",
-                "session": 1002
+                "startTime": "11:00",
+                "endTime": "11:45",
+                "session": "cloud-devops-automation"
             },
             {
-                "startTime": "04:50",
-                "endTime": "05:30",
-                "session": 1003
+                "startTime": "12:00",
+                "endTime": "12:45",
+                "session": "mobile-flutter-development"
             },
             {
-                "startTime": "05:40",
-                "endTime": "06:00",
-                "session": 1004
+                "startTime": "15:00",
+                "endTime": "15:45",
+                "session": "data-algorithms-optimization"
+            },
+            {
+                "startTime": "16:00",
+                "endTime": "16:45",
+                "session": "enterprise-architecture"
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "17:45",
+                "session": "dotnet-community-building"
             }
         ]
     }
