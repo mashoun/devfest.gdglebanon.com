@@ -1,62 +1,137 @@
 [
     {
-        "id": "1001",
+        "id": "panel-investors",
         "slide": "",
-        "title": "Session 1",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "title": "Panel: The Story by Investors in Startups",
+        "description": "Join leading investors as they share insights on the startup ecosystem in Lebanon and the MENA region. Learn about investment trends, what investors look for in startups, and success stories from the region.",
+        "track": "Panel",
+        "link": "",
+        "time": "09:00 AM to 09:45 AM (EEST)",
+        "format": "Panel",
+        "date": "TBA",
+        "timeDuration": "45",
         "speakers": [
-            101
+            "30", "16"
         ]
     },
     {
-        "id": "1002",
+        "id": "ai-future-systems",
         "slide": "",
-        "title": "Session 2",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Building the Future: AI and Intelligent Systems",
+        "description": "Explore the cutting-edge developments in AI and machine learning. From generative AI to MLOps, discover how AI is transforming industries and learn practical approaches to implementing AI solutions.",
+        "track": "AI",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "time": "10:00 AM to 10:45 AM (EEST)",
+        "format": "Talk",
+        "date": "TBA",
+        "timeDuration": "45",
         "speakers": [
-            101
+            "1", "15", "32"
         ]
     },
     {
-        "id": "1003",
+        "id": "cloud-devops-automation",
         "slide": "",
-        "title": "Session 3",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "From Automation to Autonomy: The Future of Intelligent Cloud Systems",
+        "description": "Modern cloud platforms automate deployments, scaling, and monitoring, yet they still depend on humans to interpret alerts, identify root causes, and take action. This talk will explore the next evolution of DevOps: autonomous cloud systems that can observe, reason, and act intelligently to maintain stability and performance.",
+        "track": "Cloud",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "time": "11:00 AM to 11:45 AM (EEST)",
+        "format": "Talk",
+        "date": "TBA",
+        "timeDuration": "45",
         "speakers": [
-            102, 101
+            "43", "2", "11"
         ]
     },
     {
-        "id": "1004",
+        "id": "mobile-flutter-development",
         "slide": "",
-        "title": "Session 4",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
+        "title": "Cross-Platform Mobile Development with Flutter",
+        "description": "Dive into modern mobile app development with Flutter. Learn about clean architecture, state management, and building scalable mobile applications that work across platforms.",
+        "track": "Mobile",
+        "link": "",
+        "time": "12:00 PM to 12:45 PM (EEST)",
+        "format": "Workshop",
+        "date": "TBA",
+        "timeDuration": "45",
+        "speakers": [
+            "7", "23", "29"
+        ]
+    },
+    {
+        "id": "web-frontend-innovation",
+        "slide": "",
+        "title": "Modern Web Development: From React to Next.js",
+        "description": "Explore the latest trends in frontend development. Learn about React, Next.js, modern build tools, and how to create engaging user experiences in web applications.",
         "track": "Web",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "time": "02:00 PM to 02:45 PM (EEST)",
+        "format": "Talk",
+        "date": "TBA",
+        "timeDuration": "45",
         "speakers": [
-            102
+            "22", "20", "17"
+        ]
+    },
+    {
+        "id": "data-algorithms-optimization",
+        "slide": "",
+        "title": "Algorithms and Data Structures: From Theory to Practice",
+        "description": "Master the fundamentals of computer science with practical applications. Learn optimization techniques, graph theory, and how to solve complex computational problems efficiently.",
+        "track": "Algorithms",
+        "link": "",
+        "time": "03:00 PM to 03:45 PM (EEST)",
+        "format": "Workshop",
+        "date": "TBA",
+        "timeDuration": "45",
+        "speakers": [
+            "14", "4", "21"
+        ]
+    },
+    {
+        "id": "enterprise-architecture",
+        "slide": "",
+        "title": "Enterprise Architecture and Scalable Systems",
+        "description": "Learn how to design and build enterprise-grade systems that scale. Covering microservices, database architecture, and building robust platforms for modern organizations.",
+        "track": "Architecture",
+        "link": "",
+        "time": "04:00 PM to 04:45 PM (EEST)",
+        "format": "Talk",
+        "date": "TBA",
+        "timeDuration": "45",
+        "speakers": [
+            "34", "6", "31"
+        ]
+    },
+    {
+        "id": "dotnet-community-building",
+        "slide": "",
+        "title": "Building Tech Communities: The .NET Lebanon Story",
+        "description": "Discover how to build and nurture tech communities. Learn from the experience of founding the first .NET community in Lebanon and creating sustainable tech ecosystems.",
+        "track": "Community",
+        "link": "",
+        "time": "05:00 PM to 05:45 PM (EEST)",
+        "format": "Talk",
+        "date": "TBA",
+        "timeDuration": "45",
+        "speakers": [
+            "8", "24", "17"
+        ]
+    },
+    {
+        "id": "startup-entrepreneurship",
+        "slide": "",
+        "title": "From Idea to Impact: Entrepreneurship in Tech",
+        "description": "Join successful entrepreneurs and learn about building tech startups, overcoming challenges, and creating meaningful impact in the technology sector.",
+        "track": "Entrepreneurship",
+        "link": "",
+        "time": "06:00 PM to 06:45 PM (EEST)",
+        "format": "Panel",
+        "date": "TBA",
+        "timeDuration": "45",
+        "speakers": [
+            "28", "33", "12"
         ]
     }
 ]
