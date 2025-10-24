@@ -33,17 +33,16 @@
         <v-btn
           rounded
           size="large"
-          color="#FFD427"
+          color="#34A853"
           v-if="
             mainData.eventInfo &&
-            mainData.eventInfo.registration.link.length &&
-            new Date(mainData.eventInfo.registration.end_date) > new Date()
+            mainData.eventInfo.registration.link.length
           "
           :href="mainData.eventInfo.registration.link"
           class="my-4 mt-3 hero-register-btn"
           target="_blank"
           variant="flat"
-          >Register Now</v-btn
+          >Agenda</v-btn
         >
       </v-col>
       <v-col md="6" sm="6" cols="12" class="px-0">
@@ -98,7 +97,7 @@ const { mainData } = useJSONData();
 
 .hero-register-btn {
   border: 1.5px solid #1e1e1e;
-  color: black;
+  color: white;
 }
 
 .hero-image {

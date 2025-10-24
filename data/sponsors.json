@@ -397,6 +397,42 @@
           "web": "https://www.instagram.com/zeecolalebanon/"
         },
         "type": "partner"
+      },
+      {
+        "company_id": "21",
+        "name": "Rindo",
+        "company": {
+          "name": "Rindo",
+          "designation": "Partner"
+        },
+        "link": "",
+        "logo": "rindo.png",
+        "level": "Partner",
+        "bio": "Rindo - Technology Partner",
+        "description": "Rindo - Technology Partner supporting DevFest Lebanon 2025",
+        "social": {
+          "linkedin": "",
+          "web": ""
+        },
+        "type": "partner"
+      },
+      {
+        "company_id": "22",
+        "name": "BERGAUF",
+        "company": {
+          "name": "BERGAUF",
+          "designation": "Partner"
+        },
+        "link": "",
+        "logo": "bergauf.png",
+        "level": "Partner",
+        "bio": "BERGAUF - Technology Partner",
+        "description": "BERGAUF - Technology Partner supporting DevFest Lebanon 2025",
+        "social": {
+          "linkedin": "",
+          "web": ""
+        },
+        "type": "partner"
       }
     ]
   }
