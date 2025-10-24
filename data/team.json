@@ -262,5 +262,41 @@
       "web": ""
     },
     "type": "Volunteer"
+  },
+  {
+    "id": "6025",
+    "name": "Abdul Nour",
+    "company": {
+      "name": "Publicis Group",
+      "designation": "Social Media Manager"
+    },
+    "community_title": "Social Media and Communication",
+    "image": "abdul-nour.jpeg",
+    "bio": "I'm the one who connects the dots: between brands, creatives, platforms & people. Currently working as Social Media Manager at Publicis Group, bringing expertise in digital marketing and community engagement to GDG Lebanon.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/abedcakyuz/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6026",
+    "name": "Manuella Azzi",
+    "company": {
+      "name": "Freelancer",
+      "designation": "Social Media Marketer"
+    },
+    "community_title": "Social Media and Marketing",
+    "image": "manuella.jpeg",
+    "bio": "Manuella Azzi is a freelance digital marketer and social media strategist from Lebanon. With 4+ years of experience, she has helped over 30 brands, from eCommerce to Tech startups and personal brands, grow organically through strategy-led content that drives real results without ad spend.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
   }
 ]
