@@ -72,10 +72,10 @@
           :href="mainData.eventInfo.registration.link"
           class="d-md-flex d-lg-flex d-sm-flex d-none register-btn ml-2"
           target="_blank"
-          color="#FFD427"
+          color="#34A853"
           variant="flat"
           size="small"
-          >Register Now</v-btn
+          >Agenda</v-btn
         >
       </ClientOnly>
     </div>
@@ -125,7 +125,7 @@ const drawerAction = () => {
 
 .register-btn {
   border: 1.5px solid #1e1e1e;
-  color: black;
+  color: white;
   text-transform: capitalize;
   font-weight: 100;
 }
